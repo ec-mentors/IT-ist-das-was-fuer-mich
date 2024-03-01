@@ -1,0 +1,33 @@
+# Slides
+SOURCE_DIR = ./source/course/
+SLIDES_SOURCE = $(wildcard $(SOURCE_DIR)day_*/slides.md)
+SLIDES_PDF = $(patsubst %.md, %.pdf, $(SLIDES_SOURCE))
+
+MAKEFLAGS := --jobs=$(shell nproc)  # TBD: does this work on Windows?
+
+# print help
+.PHONY : help
+help : SlidesMakefile
+	@sed -n 's/^##//p' $<
+
+## all         : Compile all slides.md to create PDF/HTML.
+.PHONY: all
+all : $(SLIDES_PDF)
+
+## pdfs        : Create PDFs.
+.PHONY : pdfs
+pdfs : $(SLIDES_PDF)
+
+$(SOURCE_DIR)day_%/slides.pdf : $(SOURCE_DIR)day_%/slides.md
+	npx @marp-team/marp-cli@latest --allow-local-files $< -o $@
+
+## clean       : Remove auto-generated files.
+.PHONY : clean
+clean :
+	rm -f $(SLIDES_PDF)
+
+## variables   : Print variables (for debugging).
+.PHONY : variables
+variables:
+	@echo SLIDES_SOURCE: $(SLIDES_SOURCE)
+	@echo SLIDES_PDF: $(SLIDES_PDF)
