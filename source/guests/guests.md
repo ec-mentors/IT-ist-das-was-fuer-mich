@@ -9,15 +9,7 @@ die sich für uns Zeit nehmen damit wir sie ein bisschen kennen
 lernen und dadurch Einblicke in ihre persönliche Geschichte nehmen
 können.
 
-## UX-Designerin Anna Großalber
-
-Anna hat bei Everyone Codes die Ausbildung UX/UI Design absolviert.
-Sie hat uns erklärt, was UX/UI Design eigentlich ist, wozu man das braucht,
-und uns einen Einblick in ihren Arbeitsalltag gegeben.
-
-Sobald sie uns ihre Präsentation zur Verfügung stellt, wird sie hier verlinkt.
-
-<!-- <img src="./i04_guest_JuliaMittas.jpg" alt="">
+<img src="./i04_guest_JuliaMittas.jpg" alt="">
 
 ## Game Dev (Sophie Amelien)
 
@@ -43,6 +35,7 @@ Hier noch die alten Versionen:
 * {download}`Game Dev Ausbildungen in Österreich (2022)<../_static/AusbildungenInOesterreich.pdf>`
 * {download}`Game Dev Jobs in der Spieleindustrie (2022)<../_static/JobsInDerSpieleIndustrie.pdf>`
 
+
 ## Projektleiterin und Scrum Master (Dagmar Labes)
 
 ```{exercise} Unsere Fragen an Dagmar (Projektleiterin & Scrum Master)
@@ -61,6 +54,7 @@ Fragen:
 
 Dagmar war so freundlich uns ihre Slides zu schicken:
 * {download}`Frauen in der Technik - Dagmar bei Sportradar <../_static/Frauen in der Technik - Dagmar bei Sportradar.pdf>`
+
 
 ## Softwareentwicklerin (Krisztina Horvat-Schwarcz)
 
@@ -93,6 +87,7 @@ Fragen:p
 - Welche Fragen möchtest du Julia stellen?
 ```
 
+
 ## Ehemalige Teilnehmerinnen
 
 ```{exercise} Gastvortragende: Ehemalige Teilnehmerinnen
@@ -108,4 +103,4 @@ Was konnten sie aus dem Kurs für sich mitnehmen?
 Für solche Fragen ist Zeit, wenn sie zu uns auf Besuch kommen.
 
 Gibt es noch andere Fragen, die du stellen möchtest?
-``` -->
+```

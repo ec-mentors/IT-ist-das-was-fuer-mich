@@ -13,7 +13,6 @@ Heute steht wieder Peer Learning am Programm.
 ```
 
 Wir haben verschiedene Themenblöcke vorgesehen:
-
 1. Feedback: Wie war die Woche für dich?
 1. Projekt: Womit willst du dich kommende Woche ausführlicher befassen?
 1. Berufsbilder und Ausbildungen:
@@ -37,6 +36,7 @@ Lies dir zur Einstimmung die {ref}`Einleitung <_project_ideas_target>` durch
 und bearbeite dann die folgende Übung:
 
 👉 {ref}`exercise-collect-project-ideas` 👈
+
 
 ## Berufsbilder und Ausbildungen
 
@@ -65,3 +65,5 @@ Bericht für das AMS verfassen - den so genannten Karriereplan.
 In dieser Übung haben wir ein paar wichtige Fragen zusammen gefasst:
 
 👉 {ref}`exercise-understand-career-plan` 👈
+
+

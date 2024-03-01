@@ -6,14 +6,14 @@ Vielzahl an Aufgaben (oder einfach nur zum Experimentieren)
 verwendet werden.
 
 Links:
-
 * [Wikipedia](https://de.wikipedia.org/wiki/Raspberry_Pi)
 * [Homepage](https://www.raspberrypi.com/)
+
 
 ```{exercise} Raspberry PI beschreiben
 :label: exercise-raspberry-pi-description
 
-Wir wollen einen neuen Computer in Betrieb nehmen. Bevor wir das tun,
+Wir einen neuen Computer in Betrieb nehmen. Bevor wir das tun,
 wollen wir uns überlegen, was das für ein Gerät ist.
 
 * Welche Eigenschaften hat der Raspberry PI?
@@ -21,3 +21,15 @@ wollen wir uns überlegen, was das für ein Gerät ist.
 * Welche Kennzahlen erscheinen dir relevant?
 ```
 
+
+```{exercise} Raspberry PI Inbetriebnahme 1
+:label: exercise-raspberry-pi-setup-1
+
+Wir wollen den Raspberry PI verwenden, um
+* die Präsentation anzuzeigen,
+* den Micro Bit zu programmieren.
+
+Es stellen sich zumindest zwei Fragen:
+* Was brauchen wir, damit wir das tun können?
+* Wie kommen wir dort hin?
+```

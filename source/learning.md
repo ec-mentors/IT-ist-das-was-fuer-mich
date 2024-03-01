@@ -63,10 +63,9 @@ programmieren und das Programm mit Hilfe des Simulators ausprobieren.
 Mit MakeCode kann man außerdem Spiele programmieren.
 
 Links:
-
-* <https://makecode.microbit.org/>
-* <https://www.microsoft.com/en-us/makecode>
-  * <https://arcade.makecode.com/>
+* https://makecode.microbit.org/
+* https://www.microsoft.com/en-us/makecode
+  * https://arcade.makecode.com/
 
 ### Scratch
 
@@ -77,8 +76,8 @@ Auch für Scratch gibt es tolle Tutorials mit Ideen und Anleitungen!
 Scratch hat außerdem eine sehr große online Community.
 
 Links:
+* https://scratch.mit.edu/
 
-* <https://scratch.mit.edu/>
 
 ## Python
 
@@ -94,10 +93,10 @@ Außerdem gibt es mit PyGame ein Zusatzpaket, mit dem man Spiele entwickeln kann
 In MakeCode kannst du neben Blöcken Code auch mit Hilfe von Python schreiben.
 
 Links:
+* https://www.python.org/
+  * https://docs.python.org/3/tutorial/
+* https://www.pygame.org/
 
-* <https://www.python.org/>
-  * <https://docs.python.org/3/tutorial/>
-* <https://www.pygame.org/>
 
 ## Web
 
@@ -106,6 +105,7 @@ oder Backend, dann ist die [Learn web development](https://developer.mozilla.org
 Seite von Mozilla ein sehr guter Einstieg.
 
 Weitere Materialien haben wir unter {ref}`Web Tutorials <web_tutorials_target>` abgelegt.
+
 
 ## Online Kurse und Materialien
 

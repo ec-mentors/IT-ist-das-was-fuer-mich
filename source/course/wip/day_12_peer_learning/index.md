@@ -14,7 +14,6 @@ Morgen wartet noch eine Soft Skills Einheit auf euch.
 ```
 
 Wir haben verschiedene Themenblöcke vorgesehen:
-
 1. Feedback: Wie war die Woche für euch?
 1. Microbit Sensoren: Welche gibt es und wofür sind sie gut?
 1. Schere-Stein-Papier: Wie funktioniert das Spiel?

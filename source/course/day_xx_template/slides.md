@@ -2,7 +2,7 @@
 marp: true
 theme: default
 header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Claus Aichinger & Rea Sutter (it-orientation@everyonecodes.io)'
+footer: 'IT, ist das was für mich? Slides von Claus Aichinger (it-orientation@everyonecodes.io)'
 paginate: true
 ---
 
