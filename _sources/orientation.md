@@ -42,7 +42,7 @@ erzählen.
 
 Auf [tech she likes](https://techshelikes.co/) findest du eine bunte Übersicht zu
 
-* Vorbilder
+* Vorbildern
 * Job Profile
 * Wege in Tech
 

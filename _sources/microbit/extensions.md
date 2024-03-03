@@ -16,7 +16,7 @@ Lust auf Roboter?
 
 <img src="5683_large-kitronik-move-motor-for-bbc-microbit-buggy-hero_800x.webp" alt="Kitronik Move Motor" width="200px" align="center">
 
-Mit dieser Erweiterung kannst du den Microbit verwenden um
+Mit dieser Erweiterung kannst du den Mikro Bit verwenden um
 einen Roboter zu bauen.
 
 Neben zwei getrennt steuerbaren Motoren gibt es Ultraschallsensoren
@@ -25,12 +25,13 @@ ein kleines Mikrofon und einzeln steuerbare LEDs.
 
 Weitere Details findest du [hier](https://kitronik.co.uk/collections/accessories-for-the-bbc-micro-bit/products/5683-kitronik-move-motor-for-the-bbc-micro-bit).
 
-Um diese Erweiterung in MakeCode verfügbar zu machen:
 
+Um diese Erweiterung in MakeCode verfügbar zu machen:
 1. Fortgeschritten/Advanced
 2. Erweiterungen
-3. Füge <https://github.com/waveshare/TouchPiano> im Suchfeld ein
+3. Füge https://github.com/waveshare/TouchPiano im Suchfeld ein
 4. Clicke auf das Sucherergebnis zum Hinzfügen
+
 
 ## Game Zip 🕹️
 
@@ -46,11 +47,11 @@ Damit kann man Spiele wie beispielsweise Snake oder Pong spielen.
 Weitere Details findest du [hier](https://kitronik.co.uk/collections/coding/products/5626-game-zip-64-for-the-bbc-microbit).
 
 Um diese Erweiterung in MakeCode verfügbar zu machen:
-
 1. Fortgeschritten/Advanced
 2. Erweiterungen
 3. Suche nach "kitronik-zip-64"
 4. Clicke auf das Sucherergebnis zum Hinzfügen
+
 
 ## Touch Piano 🎹
 
@@ -69,7 +70,7 @@ Lust auf Animation und bunte Farben?
 
 <img src="https://cdn.shopify.com/s/files/1/0254/1191/1743/products/5625_additional-zip-halo-for-the-bbc-microbit-front_ac4dad9c-2e1e-4a8d-a266-103754aa663c_800x.jpg?v=1582131135" alt="Kitronik ZIP Halo" width="200px" align="center">
 
-24 farbige, in einem Kreis angeordnete, LEDs die einzeln angesteuert
+24 farbige, in einem Kreis angeordnete, LEDs die einzel angesteuert
 werden können.
 
 Weitere Details findest du [hier](https://kitronik.co.uk/products/5625-zip-halo-for-the-bbc-microbit)

@@ -27,18 +27,6 @@ auf eine andere Schule zu gehen, die schwerpunktmäßig verschiedene Themen der 
 mit verschiedenen Themenfelder der Informatik auseinanderzusetzen.
 * **Kurse**: Wenn du dich für einen Kurs entscheidest, wirst du dich zu einem ganz konkreten Thema weiterbilden.
 
-### Voraussetzungen
-
-Unabhängig vom Bildungsweg solltest du diese Voraussetzungen erfüllen. Bei manchen Bildungswegen gibt es noch zusätzliche Voraussetzungen.
-
-* **Pflichtschulabschluss**
-* Du bist kommunikativ, arbeitest gerne im Team und liebst neue
-  Herausforderungen.
-* Du arbeitest gerne selbstständig und eigenverantwortlich.
-* Du arbeitest gerne mit Menschen und kannst auf Kund:innen eingehen.
-* Du bist bereit, dich im Laufe deiner Karriere weiterzubilden und
-  bezüglich Hard- und Software auf dem neusten Stand zu bleiben.
-
 Im Folgenden werden die einzelnen Möglichkeiten nochmal genauer
 behandelt.
 
@@ -52,28 +40,41 @@ Informationen zusammenfasst. Ein paar konkrete
 Beispiele:
 
 **Videos:**
-
 * [Applikationsentwicklung – Coding](https://www.youtube.com/watch?v=HIYNtgVid4w&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=10)
   * [Beschreibung der Wirtschaftskammer](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-applikationsentwicklung-coding.html)
 * [Elektronik – Angewandte Elektronik](https://www.youtube.com/watch?v=TscYHebkwfc&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=40)
-* [Elektrotechnik – Elektro- und Gebäudetechnik](https://www.youtube.com/watch?v=dBv7a6BhLJA&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=35)
+* [Elektrotechnik-Elektro- und Gebäudetechnik](https://www.youtube.com/watch?v=dBv7a6BhLJA&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=35)
 * [Mechatronik – Automatisierungstechnik](https://www.youtube.com/watch?v=szleLKKVF4k&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=41)
 * [Informationstechnologie – Informatik](https://www.youtube.com/watch?v=_-xh9IBl1EI&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=43)
 * [Elektrotechnik – Automatisierungs- und Prozessleittechnik](https://www.youtube.com/watch?v=8ETgNZkQyAY&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=47)
 
 Außerdem gibt es noch:
-
 * [Informationstechnologie – Schwerpunkt Systemtechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-systemtechnik.html)
 * [Informationstechnologie – Schwerpunkt Betriebstechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-betriebstechnik.html)
 * [EDV-Kaufmann / EDV-Kauffrau](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-edv-kaufmannfrau.html)
 
 Ein paar derzeit offene Lehrstellen von uns recherchiert:
-
 * ...
+
+% TBD: entfernen
+Links:
+* https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für Lehrlinge)
+* https://www.nasicher.at/de/technisch
+* https://www.wienerlinien.at/lehrlingsausbildung
+* Und viele mehr!
+
 
 ### Voraussetzungen
 
-Nur die oben angegebenen.
+% TBD: Gilt für alle, was machen wir damit?
+
+* **Pflichtschulabschluss**
+* Du bist kommunikativ, arbeitest gerne im Team und liebst neue
+  Herausforderungen.
+* Du arbeitest gerne selbstständig und eigenverantwortlich.
+* Du arbeitest gerne mit Menschen und kannst auf Kund:innen eingehen.
+* Du bist bereit, dich im Laufe deiner Karriere weiterzubilden und
+  bezüglich Hard- und Software auf dem neusten Stand zu bleiben.
 
 ### Dauer
 
@@ -101,20 +102,20 @@ Es gibt wirklich sehr viele Angebote, das hier sind also nur ein paar Beispiele.
 
 Hier ein paar Beispiele von unterschiedlichen Kursanbietern:
 
-* [Software Development](https://everyonecodes.io/programmes/software-development-vienna) von everyone codes
+* [Java Basic](https://everyonecodes.io/programmes/java-basic), [Java Advanced](https://everyonecodes.io/programmes/java-advanced) von everyone codes
 * [Python Programming](https://codefactory.wien/en/python-programming-en/), [Full Stack Web Development](https://codefactory.wien/en/full-stack-web-developer-en/) von Code Factory
 * [Java für Einsteiger:innen](https://www.wifiwien.at/kurs/18171x-ausbildung-zum-geprueften-software-developer-java-fuer-einsteigerinnen) vom WIFI
 * [Software Entwickler/innen](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/) vom waff
 * [Web Development Bootcamp](https://upleveled.io/web-development-bootcamp) von upLeveled
 * Und viele weitere! Schau' am besten selber nach!
 
-Wenn du jemand bist, die auch sehr gerne eigenständig lernt, gibt es allerdings
+Wenn du jemand bist, der auch sehr gerne eigenständig lernt, gibt es allerdings
 auch viele Webseiten wo Online-Kurse zu bestimmten Themen angeboten werden, zum Beispiel auf:
 
 * [Udemy](https://www.udemy.com/)
 * [Coursera](https://www.coursera.org/)
 
-% TBD: Sollen wir online Kurse rein nehmen?
+% TBD: Sollen wir online Kurse reinnehmen?
 
 ### Voraussetzungen
 
@@ -131,7 +132,7 @@ sein:
 ### Dauer
 
 Je nach Art des Kurses zwischen ein paar Tagen (für "Schnupperkurse")
-bis zu mehreren Monaten (für tiefer gehende Kurse). Online-Kurse können
+bis zu mehreren Monaten (für tiefgehendere Kurse). Online-Kurse können
 oft im eigenen Rhythmus absolviert werden.
 
 ### Finanzen
@@ -143,10 +144,10 @@ durch das AMS möglich.
 
 ### Beispiele
 
-* HTL Spengergasse
+* [HTL Spengergasse]
   * [Informatik (Tagesform)](https://www.spengergasse.at/?page_id=2155)
   * [Medizininformatik](https://www.spengergasse.at/?page_id=2112)
-* HTL Wien West (Ottakring)
+* [HTL Wien West (Ottakring)]
   * [Informatik (Abendschule)](https://www.htlwienwest.at/abendschule-informatik/#)
 * [HTL Wien 10 (Ettenreichgasse)](https://www.htlwien10.at/)
   * [Elektronik und Technische Informatik](https://www.htlwien10.at/edu/index.php/elektronik/)
@@ -155,7 +156,6 @@ durch das AMS möglich.
 * Und noch viele andere Einrichtungen und HTLs...
 
 Wichtig zu erwähnen:
-
 * Lehrgänge werden oft in Tages- oder Abendform angeboten.
   Das heißt, wenn man die Abendform nimmt, dann ist es auch möglich, tagsüber zu arbeiten und dann am Abend den Lehrgang zu machen.
 * Es gibt oft unterschiedliche Einstiegsvarianten, je nachdem
@@ -163,11 +163,11 @@ Wichtig zu erwähnen:
   Das heißt es gibt Angebote für Pflichtschulabschluss,
   Fachschulabschluss, Reifeprüfung, etc.
 
+
 ### Voraussetzungen
 
 Die konkreten Voraussetzungen unterscheiden sich dann von Lehrgang zu Lehrgang, sie umfassen typischerweise:
-
-* Schul- bzw. Berufsabschluss
+* Letzter Schul- bzw. Berufsabschluss
 * Alter
 * Deutschkenntnisse
 
@@ -177,6 +177,7 @@ Auch die Dauer hängt sehr vom konkreten Lehrgang und einen
 Vorkenntnissen ab.
 Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 
+
 ## Studium
 
 ### Beispiele
@@ -184,45 +185,45 @@ Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 #### Universität
 
 * TU Wien
-  * [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/)
-  * [Medieninformatik und Visual Computing](https://informatics.tuwien.ac.at/bachelor/medieninformatik-und-visual-computing/)
-  * [Technische Informatik](https://informatics.tuwien.ac.at/bachelor/technische-informatik/)
-  * [Medizinische Informatik](https://informatics.tuwien.ac.at/bachelor/medizinische-informatik/)
-  * [Wirtschaftsinformatik](https://informatics.tuwien.ac.at/bachelor/wirtschaftsinformatik/)
+    * [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/)
+    * [Medieninformatik und Visual Computing](https://informatics.tuwien.ac.at/bachelor/medieninformatik-und-visual-computing/)
+    * [Technische Informatik](https://informatics.tuwien.ac.at/bachelor/technische-informatik/)
+    * [Medizinische Informatik](https://informatics.tuwien.ac.at/bachelor/medizinische-informatik/)
+    * [Wirtschaftsinformatik](https://informatics.tuwien.ac.at/bachelor/wirtschaftsinformatik/)
 * Universität Wien
-  * [Informatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/)
-  * [Wirtschaftsinformatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/)
+    * [Informatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/)
+    * [Wirtschaftsinformatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/)
 * TU Graz
-  * [Informatik](https://www.tugraz.at/studium/studienangebot/bachelorstudien/informatik#c340410)
+    * [Informatik](https://www.tugraz.at/studium/studienangebot/bachelorstudien/informatik#c340410)
 
 #### Fachhochschule
 
 * FH Campus Wien
-  * [Angewandte Elektronik](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/angewandte-elektronik-bachelor.html)
-  * [Computer Science and Digital Communications](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/computer-science-and-digital-communications-vollzeit.html)
-  * [Clinical Engineering](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/clinical-engineering-bachelor.html)
-  * [High Tech Manufacturing](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/high-tech-manufacturing-bachelor.html)
+    * [Angewandte Elektronik](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/angewandte-elektronik-bachelor.html)
+    * [Computer Science and Digital Communications](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/computer-science-and-digital-communications-vollzeit.html)
+    * [Clinical Engineering](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/clinical-engineering-bachelor.html)
+    * [High Tech Manufacturing](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/high-tech-manufacturing-bachelor.html)
 
 * FH Technikum Wien
-  * [Informatik](https://www.technikum-wien.at/studiengaenge/bachelor-informatik/)
-  * [Informations- und Kommunikationssysteme](https://www.technikum-wien.at/studiengaenge/bachelor-informations-und-kommunikationssysteme/)
-  * [Mechatronik & Robotik](https://www.technikum-wien.at/studiengaenge/bachelor-mechatronik-robotik/)
-  * Und viele weitere, [hier](https://www.technikum-wien.at/studium/) ist
+    * [Informatik](https://www.technikum-wien.at/studiengaenge/bachelor-informatik/)
+    * [Informations- und Kommunikationssysteme](https://www.technikum-wien.at/studiengaenge/bachelor-informations-und-kommunikationssysteme/)
+    * [Mechatronik & Robotik](https://www.technikum-wien.at/studiengaenge/bachelor-mechatronik-robotik/)
+    * Und viele weitere, [hier](https://www.technikum-wien.at/studium/) ist
       eine Übersicht.
 
 ### Voraussetzungen
 
 * Allgemeine Hochschulreife:
-  * Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden
+    - Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden
       Höheren Schule
-  * Berufsreifeprüfung
-  * Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn
+    - Berufsreifeprüfung
+    - Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn
       es völkerrechtlich vereinbart ist oder nostrifiziert wurde. Die
       Studiengangsleitung kann das Zeugnis auch im Einzelfall
       anerkennen.)
 * Falls keine
   Matura, [Studienberechtigungsprüfung möglich](https://www.tuwien.at/studium/zulassung/studieren-ohne-matura).
-* A2 Deutschkenntnisse bei Antragsstellung, C1 Deutschkenntnisse für
+* A2 Deutschkentnisse bei Antragsstellung, C1 Deutschkenntnisse für
   Zulassung zum ordentlichen Studium.
 
 ### Dauer
@@ -247,6 +248,7 @@ Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 * **Familienbeihilfe für Studenten**: Wenn du studierst hast du noch
   bis zum 24. Lebensjahr Anspruch auf Familienbeihilife (siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/)).
 
+
 ## Vergleich
 
 Trotz der Informationen oben ist es vielleicht nicht ganz leicht,
@@ -258,11 +260,10 @@ anhand derer die Entscheidungsfindung eventuell etwas leichter fällt:
 
 Dadurch, dass sich die verschiedenen Bildungswege
 in Dauer und Aufbau unterscheiden, gibt es auch Unterschiede, was die behandelten Inhalte betrifft:
-
 * **Lehre**: Da du die Lehre in einem Unternehmen absolvierst, bedeutet das auch, dass du zum Großteil Inhalte lernen wirst, die in diesem Unternehmen wichtig sind. Dadurch wirst du zu einem/r Expert/in in diesem einen spezifischen Bereich der IT, wirst aber womöglich nicht so viel über andere Bereiche der IT lernen.
 * **Schule**: In einer Schule ist das ganze schon ein bisschen anders, hier werden allgemeinere Konzepte gelehrt, die nicht unbedingt für ein spezifisches Unternehmen relevant sind (aber trotzdem praxisrelevant sind). Allerdings gibt es auch bei der HTL sehr spezifische Abstufungen (z.B. Netzwerktechnik, Softwareentwickler, Game Developer, etc.)
 * **Studium**: Auch wenn sich Universitäten und Fachhochschulen dahingehend ähneln, dass man in beiden Fällen für 3 (oder 5) Jahre komplett in die Informatik vertiefen kann, gibt es inhaltlich doch Unterschiede zwischen den beiden.
-An der Universität liegt ein großer Fokus auf der Theorie, das heißt man wird im Zuge des Studiums einige theoretisch veranlagte Kurse belegen müssen (z.B. über Mathematik, Logik und Algorithmen), Fachhochschulen hingegen sind meistens praktischer veranlagt und fokussieren sich mehr auf die praktische Anwendungen. An einer FH ist außerdem der Studienplan recht genau vorgegeben, an einer Universität hingegen hat man oft eine größere Auswahl von Lehrveranstaltungen, von denen man aussuchen kann.
+An der Universität liegt ein großer Fokus auf der Theorie, das heißt man wird im Zuge des Studiums einige theoretisch veranlagte Kurse belegen müssen (z.B. über Mathematik, Logik und Algorithmen), Fachhochschulen hingegen sind meistens praktischer veranlagt und fokussieren sich mehr auf die praktische Anwendungen. An einer FH ist außerdem der Studienplan recht genau vorgegeben, an einer Universität hingegegen hat man oft eine größere Auswahl von Lehrveranstaltungen, von denen man aussuchen kann.
 * **Kurse**: Dadurch, dass Kurse kürzer sind, kann natürlich auch weniger Stoff behandelt werden als zum Beispiel an einer Fachhochschule. Das soll aber keineswegs heißen, dass Kurse schlechter sind, nur wird in Kursen oft der Fokus auf ein paar wenige Inhalte gesetzt, diese Inhalte werden dann dafür intensiver behandelt.
 
 Im Grunde läuft es also darauf hinaus, was man sich von seiner Ausbildung erwartet. Will man sich nur auf eine Sache konzentrieren und diese dann sehr gut lernen, zahlt sich eine Lehre oder ein Kurs wahrscheinlich am meisten aus. Ist man eher an einer praxisorientierten "allgemeinen" Ausbildung interessiert (um sich dann erst später beim Job tatsächlich zu spezialisieren), ist man eventuell mit einer Schule oder einer Fachhochschule am besten bedient. Will man sich hingegen sehr viel theoretisches Wissen aneignen und um verschiedene Grundkonzepte der Informatik zu verstehen, ist ein Studium wahrscheinlich am passendsten.
@@ -271,7 +272,7 @@ Im Grunde läuft es also darauf hinaus, was man sich von seiner Ausbildung erwar
 
 Die verschiedenen Bildungswege unterscheiden sich auch darin, wie der Stoff vermittelt wird und welche Erwartungen es an die Auszubildenden gibt.
 
-* **Lehre**: Bei einer Lehre wird dir der Lehrplan vorgegeben und du bekommst auch viel persönliche Unterstützung von deinem/r Ausbilder/in.
+* **Lehre**: Bei einer Lehre wird dir der Lehrplan vorgegeben und du bekommst auch viel persönliche Unterstützung von deinem/r Ausbildner/in.
 * **Schule**, **Fachhochschule** und **Kurse**: In diesem Fall läuft es oft ähnlich wie in einer normalen Schule ab, d.h. man ist oft in einem Klassenraum mit anderen SchülerInnen, bekommt regelmäßig Hausaufgaben, die man machen muss, und die Anwesenheit wird kontrolliert. In Fachhochschulen und HTLs wird auch genau vorgegeben, welche bzw. wie viele Fächer man jedes Semester machen muss.
 * **Universität**: Die genauen Vorgaben der Universität hängen natürlich von der Universität und dem Studiengang ab, aber in den meisten Fällen gibt es bei der Universität viel weniger Vorgaben und man hat mehr Flexibilität. So kann man sich zum Beispiel selber aussuchen, wie viele Lehrveranstaltungen man pro Semester machen will, und in vielen Fällen gibt es auch gar keine Hausaufgaben, sondern es gibt nur wöchentliche Vorlesungen die man optional besuchen kann. Es ist egal, ob du sie besuchst oder nicht, das einzige, was zählt, ist, dass du bei der Prüfung den behandelten Stoff beherrschst. Das bedeutet aber auch, dass man beim Studium viel Selbstdisziplin benötigt und in der Lage sein muss, sich die Zeit selber gut einzuteilen.
 
@@ -283,7 +284,6 @@ Schließlich sollte man bei der Entscheidung auch einige persönliche Faktoren, 
 berücksichtigen.
 
 #### Finanzieller Aspekt
-
 * **Lehre**: Was den finanziellen Aspekt anbelangt hat man bei der **Lehre** den Vorteil,
   dass man direkt ab Beginn der Lehre ein Gehalt bekommt.
 * **Schule**, **Studium**: Schule und Studium erstrecken sich über einen längeren Zeitraum.
