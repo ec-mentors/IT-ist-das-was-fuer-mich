@@ -6,16 +6,19 @@ und verstehen, welche Überlegungen und Technologien dabei zur
 Anwendung kommen.
 
 Wir befassen uns unter anderem mit diesen Fragen:
+
 - Was ist eine Website?
 - Wie erstellt man eine Website?
 - Wie ist die Website für den Kurs aufgebaut?
 
 Werkzeuge:
+
 - Browser wie [Firefox](https://www.mozilla.org/en-US/firefox/new/) oder [Chrome](https://www.google.com/chrome/index.html)
 - Text Editor oder eine Entwicklungsumgebung wie [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
 
 (web_tutorials_target)=
 Tutorials:
+
 - [Mozilla's "Learn web development"](https://developer.mozilla.org/en-US/docs/Learn)
 - [Django Girls "Start your journey with programming"](https://djangogirls.org/en/resources/)
 - [W3 Schools: HTML](https://www.w3schools.com/html/default.asp)
@@ -75,7 +78,6 @@ die Seite neu zusammen gebaut und aktualisiert.
 Da wir Markdown verwenden, ist es ein Leichtes, Inhalte der Website zu ändern - man muss gar nicht
 wissen, wie die Website im Detail funktioniert.
 
-
 ```{exercise} User Account für GitHub.com
 :label: exercise-github-user-account
 
@@ -86,7 +88,7 @@ Gehe auf https://github.com/ und lege dort einen User Account an.
 
 Du bekommst dann Zugriff auf unsere Kursseite.
 
-Wenn das geklappt hat, hast du ein Mail von GitLab bekommen.
+Wenn das geklappt hat, hast du ein Mail von GitHub bekommen.
 ```
 
 Die Kursseite kann man sich als Ordner mit vielen Dateien vorstellen.

@@ -2,7 +2,7 @@
 marp: true
 theme: default
 header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Claus Aichinger & Olga Drewitz (it-orientation@everyonecodes.io)'
+footer: 'IT, ist das was für mich? Slides von Rea Sutter, Claus Aichinger & Olga Drewitz (it-orientation@everyonecodes.io)'
 paginate: true
 ---
 
@@ -31,8 +31,6 @@ Wie ist dein Energielevel?
 - Braucht ihr noch was?
 - Hat alles funktioniert?
 
-- Wo werdet ihr festhalten, was wir uns erarbeiten?
-
 ---
 
 ## Wie heißt du? Wie heiße ich? 💬
@@ -50,10 +48,12 @@ Wie ist dein Energielevel?
 ### Woraus besteht ein Computer? 🤔
 
 Wir sprechen über Hardware
+
 - Komponenten benennen und einordnen können
 - Eigenschaften beschreiben
 
 Fragen:
+
 - Was braucht ein Computer (damit er funktioniert)?
 - Was haben verschiedene Computer gemeinsam?
 - Welche Aufgabe erfüllt welche Komponente?
@@ -65,6 +65,7 @@ Fragen:
 In Gruppen
 
 Fragen:
+
 - Wie geht ihr das an?
 - Wer macht was?
 - Was ist das Ergebnis?
@@ -82,11 +83,13 @@ Am Ende präsentiert jede Gruppe ihre Ergebnisse.
 ### Übung: Was machen folgende Komponenten? 🧗
 
 Komponenten
+
 - Prozessor
 - Arbeitsspeicher
 - Festplatte
 
 Beantwortet in Gruppen folgende Fragen:
+
 - Welche Rolle spielen die Komponenten?
 - Mit welchen Kennzahlen werden sie beschrieben?
 - Wie sieht das bei eurem Smartphone aus?
@@ -120,7 +123,7 @@ Beantwortet in Gruppen folgende Fragen:
 
 ### Was kommt morgen?
 
-- Aufgaben beschreiben
+- Exkursion zur BeST
 
 ---
 
@@ -129,6 +132,10 @@ Beantwortet in Gruppen folgende Fragen:
 - Was hast du gelernt?
 - Was hat dich überrascht?
 - Was nimmst du mit für morgen?
+
+---
+
+## Bitte alles aufräumen! 🧹
 
 ---
 

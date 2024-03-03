@@ -19,7 +19,7 @@ import datetime
 
 project = "IT, ist das was für mich?"
 copyright = f"{datetime.date.today().year}, everyone codes"
-author = "Claus Aichinger and everyonecodes"
+author = "Rea Sutter, Claus Aichinger and everyonecodes"
 
 # https://sphinx-book-theme.readthedocs.io/en/latest/customize/sidebar-primary.html
 html_title = "Arbeitsmaterialien für Berufsorientierung IT"

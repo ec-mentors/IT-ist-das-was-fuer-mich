@@ -13,6 +13,7 @@ relevant for the participants.
 The website is markdown-based and rendered using a static site generator.
 
 The following tools are at play:
+
 * [Sphinx](https://www.sphinx-doc.org/)
 * [Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/)
 * [Markedly Structured Text (MyST)](https://myst-parser.readthedocs.io/)
@@ -57,11 +58,9 @@ To build locally, do
 ./render_on_save.sh
 ```
 
-
 ### CI Pages
 
 A CI pipeline is configured and the build is automatically published.
-
 
 ## Slides
 
@@ -70,6 +69,7 @@ A CI pipeline is configured and the build is automatically published.
 Slides are markdown-based and rendered using [Marp](https://marp.app/).
 
 Notes:
+
 * To included slides on the website, add the PDF version as download.
 * Any markdown engine could be used.
 

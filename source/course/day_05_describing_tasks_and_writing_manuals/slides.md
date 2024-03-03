@@ -2,7 +2,7 @@
 marp: true
 theme: default
 header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Claus Aichinger & Olga Drewitz (it-orientation@everyonecodes.io)'
+footer: 'IT, ist das was für mich? Slides von Rea Sutter, Claus Aichinger & Olga Drewitz (it-orientation@everyonecodes.io)'
 paginate: true
 ---
 
@@ -10,9 +10,10 @@ paginate: true
 
 ## Tag 5 🎈
 
-- CPU, Arbeitsspeicher und Festspeicher
 - Von der Idee zum Plan
 - Aufgaben & Anleitungen & Algorithmen
+- (Laptops einrichten)
+- Nützliche Shortcuts
 
 ---
 
@@ -20,24 +21,13 @@ paginate: true
 
 ---
 
-
 ### Check In ⛈️ 🌥️ 🌈
 
 > Wie bist du da?
 
 ---
 
-### Was passiert heute? 🗒️
-
-- Forsetzung von gestern
-- Aufgaben beschreiben
-- Anleitungen erstellen
-
-<!-- - Eine Aufgabe für Olga's Roboter ausarbeiten -->
-
----
-
-### Gibt es zu gestern eine Frage? 🤔
+### Gibt es zu den letzten Tagen eine Frage? 🤔
 
 ---
 
@@ -85,7 +75,6 @@ Ein paar Gedanken:
 
 ---
 
-
 ## Anleitung ➡️ Programm
 
 - Anleitung: Beschreibung von Menschen für Menschen
@@ -101,6 +90,7 @@ Ein paar Gedanken:
 ## Anleitung ➡️ Programm
 
 **Programmieren heißt:**
+
 1. Nachdenken: Was will ich? ➡️ Idee 💡
 1. Beschreiben: Was will ich genau? ➡️ Beschreibung/Anleitung 📝
 1. Übersetzen: Das will ich! ➡️ Programm 🤖
@@ -111,18 +101,18 @@ Ein paar Gedanken:
 
 ---
 
-
 # Pause ☕
 
 *Gleich geht's weiter.*
 
 ---
 
-### Übung: Ihr seid dran!
+## Übung: Ihr seid dran!
 
 Wir bilden 3 Gruppen, jede Gruppe bekommt eine Kiste, jede Gruppe ist in einem eigenen Raum.
 
 In der Gruppe:
+
 1. Besprechen: Was ist das Ding? Wie baut man es?
 1. Ausarbeiten: Erstellt eine Anleitung zum Nachbau (für eine andere Gruppe)
 
@@ -130,49 +120,27 @@ Danach: eine andere Gruppe versucht gemäß eurer Anleitung das Ding nachzubauen
 
 Danach: Nachbesprechung
 
-<!--
-
 ---
 
-#### Welche Keyboard Shortcuts waren praktisch?
-
-Eine kleine Wiederholung:
-
-- Ganz allgemein?
-- Im Browser?
-- Am Desktop?
-- Sonstwo?
-
----
-
-#### Übung: Machen wir ein Plakat daraus! 👩‍🎨
-
-Zwei Gruppen.
-
-1. Gruppe: "Woraus besteht eine Computer?"
-1. Gruppe: "Nützliche Keyboard Shortcuts:"
-
----
-
----
-
-### Übung: Eine Aufgabe & Anleitung für Olga
+### Übung: Eine Aufgabe & Anleitung für Rea: Teil 1
 
 Wir:
+
 1. Nachdenken: Was soll der Roboter machen? ➡️ Idee 💡
 1. Beschreiben: Was wollen wir genau? ➡️ Beschreibung/Anleitung 📝
 
-Olga:
+Rea:
 3. Übersetzen: Das wollt ihr?! ➡️ Programm 🤖
 
-*Wird Olga verstehen, was wir wollen?*
-*Wird der Roboter verstehen, was Olga will?*
+*Wird Rea verstehen, was wir wollen?*
+*Wird der Roboter verstehen, was Rea will?*
 
 ---
 
-### Übung: Eine Aufgabe & Anleitung für Olga
+### Übung: Eine Aufgabe & Anleitung für Rea: Teil 2
 
 Ein Roboter kann…
+
 - wie ein Auto in alle Richtungen fahren (Dauer, Strecke)
 - in verschiedenen Geschwindigkeiten fahren (1-100)
 - folgendes sagen: Farben, Good Job, Bravo, Okey-dokey
@@ -190,16 +158,15 @@ Was soll der Roboter machen?
 ## Laptops in Betrieb nehmen 💻
 
 Zu installieren:
+
 - Google Chrome Browser
 - Lego Software
 
 Gut zu wissen:
+
 - Wie organisieren wir unseren Browser?
 - Kennt ihr Keyboard-Shortcuts?
 - Wie merken wir uns, was wir tun?
-
-
--->
 
 ---
 
@@ -232,6 +199,10 @@ Gut zu wissen:
 - Was hast du gelernt?
 - Was hat dich überrascht?
 - Was nimmst du mit für morgen?
+
+---
+
+## Bitte alles aufräumen! 🧹
 
 ---
 

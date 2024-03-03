@@ -6,10 +6,9 @@ Welche Berufe könnten zu mir passen?
 
 Um diese und ähnliche Fragen geht es auf dieser Seite.
 
-
 ## Frauen in Technik - Angebote über das AMS
 
->  Sie möchten einen Job mit Perspektive, in dem Sie gut verdienen? Haben Sie schon an eine
+> Sie möchten einen Job mit Perspektive, in dem Sie gut verdienen? Haben Sie schon an eine
 Ausbildung im Bereich „Handwerk und Technik“ gedacht? Denn gut ausgebildete Fachkräfte sind
 am Arbeitsmarkt sehr gefragt – und gut bezahlt.
 
@@ -22,7 +21,6 @@ Wenn du dir bei manchen Berufen oder Ausbildungen unsicher bist, worum es geht,
 dann helfen dir vielleicht der Karrierekompass und der Ausbildungskompass weiter - diese
 bieten Beschreibungen.
 
-
 ## Berufe und Ausbildungen
 
 Es gibt eine Vielzahl Berufen und Ausbildungen:
@@ -31,11 +29,9 @@ Es gibt eine Vielzahl Berufen und Ausbildungen:
 * Welche Ausbildungen gibt es? [Ausbildungskompass](https://www.ausbildungskompass.at/)
 * Welche Lehren gibt es und wo werden sie angeboten? [Lehrbetriebsübersicht der WKO](https://lehrbetriebsuebersicht.wko.at/)
 
-
 *Der Beruf ist das Ziel, die Ausbildung ist der Weg dorthin.*
 
-
-## Tech She Likes - Vorbilder, Job Profile, ...
+## Tech She Likes - Vorbilder, Job Profile, etc
 
 > “techshelikes” ist eine deutschsprachige Plattform mit dem Ziel die Technologie-Branche für
 Mädchen und Frauen zugänglicher und interessanter zu machen und die Vielfalt an Jobs mit
@@ -45,7 +41,8 @@ Geschichten und Erfahrungen als Mädchen sowie Frau in der Tech-Branche und in d
 erzählen.
 
 Auf [tech she likes](https://techshelikes.co/) findest du eine bunte Übersicht zu
-* Vorbilder
+
+* Vorbildern
 * Job Profile
 * Wege in Tech
 
@@ -56,6 +53,7 @@ und IT. Der Welt, die wir euch näher­bringen wollen. Ganz nahe. Als Initia­ti
 – des öster­rei­chischen Verbandes für Elektro­technik. Aber speziell für Schülerinnen und Schüler. Speziell für dich .
 
 Auf [Let's Tech](https://www.letstech.at/) findest du
+
 * [Einblicke in Berufsbilder](https://www.letstech.at/lit-up/?_tag=tech-jobs#beitraege),
 * kannst dir verschiedene [Jobs](https://www.letstech.at/jobs-und-co/) anschauen
 
@@ -77,19 +75,18 @@ Auf dem [Videoportal des AMS](https://www.karrierevideos.at/berufe/) gibt es ein
 
 % TODO Whatchadoo verlinken
 
-
 ## Betreuungsangebote für Mädchen und Frauen
 
 ### [#futurefactory](https://futurefactory.blog/)
 
 > #futurefactory ist ein Projekt des AMS Wien im Rahmen der Wiener Ausbildungsgarantie bis 25 Jahre.
 > Es gibt Angebote rund um
+>
 > * Coaching
 > * Persönlichkeitsentwicklung
 > * Berufskunde
 > * Deutsch, Englisch, Mathe, IT, Werkstatt
 > in Form von Kursen, Workshops und Exkursionen.
-
 
 ### [Mädchen-Berufs-Zentrum (MBZ) bei sprungbrett!](https://sprungbrett.or.at/)
 
@@ -117,7 +114,6 @@ in eine Lehrausbildung.
 > Du bist zwischen 15 und 21 Jahre alt, beim AMS Wien vorgemerkt und suchst eine Lehrstelle oder einen Job. Dann komm zu A|B|O Jugend!
 > Wir unterstützen dich bestmöglich beim Berufseinstieg!
 > Die Zubuchung zu A|B|O Jugend erfolgt über das AMS Wien Jugendliche.
-
 
 ## Übungen
 
@@ -154,7 +150,6 @@ Kannst du dir vorstellen, was dieses Dokument bedeutet?
 
 Lass und das in der Gruppe besprechen.
 ```
-
 
 ```{exercise} Wie geht es weiter ...?
 :label: exercise-how-do-you-want-to-continue

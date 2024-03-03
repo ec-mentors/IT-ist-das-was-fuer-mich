@@ -13,6 +13,7 @@ als Plattform für unsere Programmierprojekte verwenden.
 {download}`🎬 Slides <./slides.pdf>`
 
 Wir machen folgende Übungen
+
 1. {ref}`exercise-raspberry-pi-description`
 1. {ref}`exercise-raspberry-pi-setup-1`
 1. {ref}`exercise-micro-bit-chrome-webusb`
