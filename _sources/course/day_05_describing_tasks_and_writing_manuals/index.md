@@ -1,6 +1,4 @@
-# Tag 5
-
-## Aufgaben, Anleitungen, Algorithmen
+# Tag 05: Aufgaben, Anleitungen, Algorithmen
 
 **Wir verfassen Anleitungen!** 🤓 📝
 

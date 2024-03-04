@@ -57,7 +57,7 @@
     <link rel="icon" href="../_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
     <link rel="search" title="Suche" href="../search.html" />
-    <link rel="next" title="Raspberry PI" href="../raspberrypi.html" />
+    <link rel="next" title="Strecken und Kurven fahren" href="move_and_turn.html" />
     <link rel="prev" title="Zusammenarbeit" href="../mode.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="de"/>
@@ -172,9 +172,9 @@
 <li class="toctree-l2"><a class="reference internal" href="../course/day_02_lernen_lernen/index.html">Tag 2: Auch Lernen will gelernt sein!</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_03_hardware_and_components/index.html">Tag 3: Grundbegriffe, Laptops, Computer</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_04_excursion_best/index.html">Tag 04: Exkursion zur BeST - Messe für Beruf, Studium, Weiterbildung</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../course/day_05_describing_tasks_and_writing_manuals/index.html">Tag 5</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../course/day_06_lego_robots_1/index.html">Tag 6: Lego-Roboter EV3</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../course/day_07_lego_robots_2/index.html">Tag 7: Lego Roboter EV3 Schleifen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../course/day_05_describing_tasks_and_writing_manuals/index.html">Tag 05: Aufgaben, Anleitungen, Algorithmen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../course/day_06_lego_robots_1/index.html">Tag 06: Lego-Roboter EV3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../course/day_07_lego_robots_2/index.html">Tag 07: Lego Roboter EV3</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_11_soft_skills_presentation_skills/index.html">Tag 11: Kommunikation und Präsentation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_12_to_18_microbit_intro/index.html">Tag 12 bis 18: Raspberry PI und BBC micro:bit Intro</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_19_to_24_project_week/index.html">Tag 19 bis 24: Projektwoche</a></li>
@@ -186,9 +186,13 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../mode.html">Zusammenarbeit</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Lego Mindstorms</a></li>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Lego Mindstorms</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="move_and_turn.html">Strecken und Kurven fahren</a></li>
+<li class="toctree-l2"><a class="reference internal" href="objects_and_obstacles.html">Hindernisse und andere Objekte</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../raspberrypi.html">Raspberry PI</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../microbit/index.html">BBC micro:bit</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../microbit/index.html">BBC micro:bit</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../microbit/tutorial.html">Tutorial</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../microbit/extensions.html">Erweiterungen für den Micro Bit</a></li>
 </ul>
@@ -198,7 +202,6 @@
 <li class="toctree-l1"><a class="reference internal" href="../learning.html">Selber Lernen</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../orientation.html">Berufsorientierung</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../education.html">Bildungswege</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../guests/guests.html">Menschen aus der IT</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../contact.html">Kontakt</a></li>
 </ul>
 
@@ -349,7 +352,7 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#strecken-und-kurven-fahren">Strecken und Kurven fahren</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#aufgaben">Aufgaben</a></li>
 </ul>
             </nav>
         </div>
@@ -381,56 +384,13 @@ Your browser does not support the video tag.
 <a class="reference external" href="https://education.lego.com/de-de/downloads/retiredproducts/mindstorms-ev3-lab/software">Link</a>
 zu finden ist. Es funktioniert auch unter Windows 11.</p>
 </section>
-<section id="strecken-und-kurven-fahren">
-<h2>Strecken und Kurven fahren<a class="headerlink" href="#strecken-und-kurven-fahren" title="Link to this heading">#</a></h2>
-<div class="exercise admonition" id="exercise-ev3-42cm">
-
-<p class="admonition-title"><span class="caption-number">Exercise 2 </span> (42cm geradeaus fahren (15 Minuten))</p>
-<section id="exercise-content">
-<p>Es gibt verschiedene Arten dem Roboter zu sagen, wie weit er fahren soll. Wie kannst du ihn dazu bringen, exakt 42cm weit zu fahren?</p>
-<p>Du kannst an der Referenzlinie überprüfen, ob er wirklich genau 42cm weit fährt.</p>
-<p><strong>Fortgeschritten</strong></p>
-<p>Auf wie viele verschiedene Arten kannst du den Roboter diese Strecke von 42cm fahren lassen? Ist eine art besser geeignet als andere? Warum?</p>
-</section>
-</div>
-<div class="exercise admonition" id="exercise-ev3-rectangle">
-
-<p class="admonition-title"><span class="caption-number">Exercise 3 </span> (Rechteck abfahren)</p>
-<section id="exercise-content">
-<p>Transport- und Lagerroboter müssen im Lager exakt um Ecken fahren können. Wenn sie ein bisschen zu viel oder zu wenig weit drehen, können sie mit den Lagerregalen kollidieren.</p>
-<p>Kannst du den Roboter genau einen rechten Winkel fahren lassen?</p>
-<p>Lass ihn ein Rechteck fahren, so dass er am Ende wieder genau dort steht, wo er begonnen hat.</p>
-<p>Du kannst einen der Startplätze verwenden um zu überprüfen, ob er genau dort wieder endet, wo er gestartet ist.</p>
-<p><strong>Fortgeschritten</strong></p>
-<p>Auf wie viele verschiedne Arten kannst du einen rechten Winkel programmieren? Was sind die Unterschiede?</p>
-</section>
-</div>
-<div class="exercise admonition" id="exercise-ev3-circle">
-
-<p class="admonition-title"><span class="caption-number">Exercise 4 </span> (Im Kreis fahren)</p>
-<section id="exercise-content">
-<p>Lass den Roboter im Kreis fahren.</p>
-<p><strong>Fortgeschritten</strong></p>
-<p>Welche Parameter musst du ändern, damit sich der Radius des Kreises ändert?</p>
-</section>
-</div>
-<div class="exercise admonition" id="exercise-ev3-figure-8">
-
-<p class="admonition-title"><span class="caption-number">Exercise 5 </span> (Achterbahn)</p>
-<section id="exercise-content">
-<p>Lass den Roboter eine 8 fahren.</p>
-<p><strong>Fortgeschritten</strong></p>
-<p>Welche Parameter musst du ändern, damit die 8 länger oder breiter wird?</p>
-</section>
-</div>
-<div class="exercise admonition" id="exercise-ev3-writing">
-
-<p class="admonition-title"><span class="caption-number">Exercise 6 </span> (Ev3 lernt Schreiben)</p>
-<section id="exercise-content">
-<p>Lass den Roboter die Form eines Buchstabens abfahren.</p>
-<p><strong>Fortgeschritten</strong></p>
-<p>Lass den Roboter deinen Namen schreiben.</p>
-</section>
+<section id="aufgaben">
+<h2>Aufgaben<a class="headerlink" href="#aufgaben" title="Link to this heading">#</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="move_and_turn.html">Strecken und Kurven fahren</a></li>
+<li class="toctree-l1"><a class="reference internal" href="objects_and_obstacles.html">Hindernisse und andere Objekte</a></li>
+</ul>
 </div>
 </section>
 </section>
@@ -456,11 +416,11 @@ zu finden ist. Es funktioniert auch unter Windows 11.</p>
       </div>
     </a>
     <a class="right-next"
-       href="../raspberrypi.html"
+       href="move_and_turn.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">weiter</p>
-        <p class="prev-next-title">Raspberry PI</p>
+        <p class="prev-next-title">Strecken und Kurven fahren</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -481,7 +441,7 @@ zu finden ist. Es funktioniert auch unter Windows 11.</p>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#strecken-und-kurven-fahren">Strecken und Kurven fahren</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#aufgaben">Aufgaben</a></li>
 </ul>
   </nav></div>
 
