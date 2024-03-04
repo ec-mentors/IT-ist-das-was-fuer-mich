@@ -8,7 +8,7 @@ The website serves as entry point for the participants and
 helps organize course notes as well as additional material
 relevant for the participants.
 
-### Technical Background
+### Technical Background Website
 
 The website is markdown-based and rendered using a static site generator.
 
@@ -30,7 +30,7 @@ Extensions are specified in the Sphinx configuration file `conf.py`.
 
 The listed tools are used within the [executable books project](https://github.com/executablebooks).
 
-### Setup
+### Sphynx Setup
 
 Use your favorite method to create a (virtual) Python environment
 based on the specifications in `environment.yml` or `requirements.txt`.
@@ -64,7 +64,7 @@ A CI pipeline is configured and the build is automatically published.
 
 ## Slides
 
-### Technical Background
+### Technical Background Slides
 
 Slides are markdown-based and rendered using [Marp](https://marp.app/).
 
@@ -73,7 +73,7 @@ Notes:
 * To included slides on the website, add the PDF version as download.
 * Any markdown engine could be used.
 
-### Setup
+### Marp Setup
 
 #### VS Code Plugin
 
@@ -85,21 +85,21 @@ for local development and building.
 There is a [CLI that can be installed through npm](https://www.npmjs.com/package/@marp-team/marp-cli).
 
 ```console
-$ npm install -g @marp-team/marp-cli
+ npm install -g @marp-team/marp-cli
 ```
 
-### Editing
+### Editing Slides
 
 Source files reside in the `sources/course/days_*/slides.md` and are written in
 [Markdown](https://marpit.marp.app/markdown).
 
-### Rendering/Building
+### Rendering/Building Slides
 
 To convert a markdown file into e.g. PDF, do
 
 ```console
-$ marp slides.md -o slides.pdf
-$ npx @marp-team/marp-cli@latest slides.md -o slides.pdf  # included marp update
+marp slides.md -o slides.pdf
+npx @marp-team/marp-cli@latest slides.md -o slides.pdf  # included marp update
 ```
 
 or use the VS Code plugin.
@@ -107,9 +107,9 @@ or use the VS Code plugin.
 To simplify automation, use the SlidesMakefile.
 
 ```console
-$ make --makefile=SlidesMakefile all  # to compile all slides
-$ make --makefile=SlidesMakefile clean  # to remove them
-$ make --makefile=SlidesMakefile help  # to see other options
+make --makefile=SlidesMakefile all  # to compile all slides
+make --makefile=SlidesMakefile clean  # to remove them
+make --makefile=SlidesMakefile help  # to see other options
 ```
 
 ### Spell Checking
@@ -120,7 +120,6 @@ There is an
 [extension for VS Code](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 as well a
 [dictionary for German](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-german).
-
 
 ### Building Everything
 
@@ -134,20 +133,19 @@ starts.
 1. Rename old repository and old team (to free names)
 1. Create new repository and new team
 1. Copy-paste old website into new repository, thereby
-   - Discarding the Git-history
-   - Deleting participant-related content
-   We do that to avoid storing participant-related information
-   longer than necessary.
+   1. Discarding the Git-history
+   1. Deleting participant-related content
+   We do that to avoid storing participant-related information longer than necessary.
 1. Migrate eventual issues to new project
 1. Delete old repository and old team (if not done already)
 
 To activate *GitHub Pages*:
 On *GitHub / Settings / GitHub Pages* select
+
 * Source: Deploy from branch
 * Branch: gh-pages / (root) *Save*
 
 ![GitHub Repo Settings / Pages](.github/workflows/gh-pages-settings-screenshot.png)
-
 
 ## Miscellaneous
 
