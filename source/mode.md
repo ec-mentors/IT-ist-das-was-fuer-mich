@@ -8,7 +8,7 @@ theme: default
 
 ## Was uns im Kurs wichtig ist
 
-Das werden wir am ersten Tag gemeinsam beschlie&eszet;en.
+Das werden wir am ersten Tag gemeinsam beschließen.
 <!--![Was ist uns wichtig!? Poster aus dem Kurs](_static/Zusammenarbeit_Poster.jpg)
 -->
 ## Hausregeln
