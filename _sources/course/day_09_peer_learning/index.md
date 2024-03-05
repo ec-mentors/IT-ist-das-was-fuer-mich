@@ -3,7 +3,7 @@
 Gratulation zur ersten Kurswoche! 🎊
 
 Heute steht Peer Learning am Programm.
-
+<!--
 ```{include} ../../_peer_learning.md
 ```
 
@@ -43,3 +43,4 @@ Beantworte die folgenden Fragen:
 - Wie hast du dich dabei gefühlt die Aufgabe zu lösen?
 - Könntest du dir vorstellen das jeden Tag zu machen?
 ```
+-->
