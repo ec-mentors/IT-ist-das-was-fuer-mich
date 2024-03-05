@@ -11,5 +11,5 @@ Wenn du Fragen hast, wende dich an die anderen Teilnehmerinnen oder die Betreuun
 ---
 
 Wenn du an einem gemeinsamen Dokument arbeitest, füge immer deinen Namen hinzu.
-Achte darauf, dass du nicht irrtümlich den Text einer anderen Teilnehmerin löscht.
+Achte darauf, dass du nicht irrtümlich den Text einer anderen Teilnehmerin löschst.
 ```

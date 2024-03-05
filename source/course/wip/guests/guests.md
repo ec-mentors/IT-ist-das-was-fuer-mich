@@ -87,7 +87,6 @@ Fragen:p
 - Welche Fragen möchtest du Julia stellen?
 ```
 
-
 ## Ehemalige Teilnehmerinnen
 
 ```{exercise} Gastvortragende: Ehemalige Teilnehmerinnen

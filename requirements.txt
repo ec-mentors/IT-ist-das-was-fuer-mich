@@ -4,7 +4,7 @@ sphinx==7.2.6
 sphinx-book-theme==1.1.2
 pydata-sphinx-theme==0.15.2
 sphinx-copybutton
-sphinx-exercise
+sphinx-exercise==0.4.1
 sphinx-tabs
 sphinx-togglebutton
 sphinxemoji

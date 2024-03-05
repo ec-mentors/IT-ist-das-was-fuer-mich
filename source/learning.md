@@ -78,7 +78,6 @@ Scratch hat außerdem eine sehr große online Community.
 Links:
 * https://scratch.mit.edu/
 
-
 ## Python
 
 Python ist eine universelle Programmiersprache die in vielen Bereichen
@@ -97,7 +96,6 @@ Links:
   * https://docs.python.org/3/tutorial/
 * https://www.pygame.org/
 
-
 ## Web
 
 Wenn du dich für Webentwicklung interessierst, egal ob Grundlagen, Front End
@@ -105,7 +103,6 @@ oder Backend, dann ist die [Learn web development](https://developer.mozilla.org
 Seite von Mozilla ein sehr guter Einstieg.
 
 Weitere Materialien haben wir unter {ref}`Web Tutorials <web_tutorials_target>` abgelegt.
-
 
 ## Online Kurse und Materialien
 
