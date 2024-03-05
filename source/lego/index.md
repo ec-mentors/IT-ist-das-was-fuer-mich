@@ -31,4 +31,7 @@ zu finden ist. Es funktioniert auch unter Windows 11.
 
 move_and_turn.md
 objects_and_obstacles.md
+grab_and_release.md
+colors_and_lines.md
+
 ```

@@ -29,6 +29,7 @@ Wo findest du Hilfe?
 1. {ref}`exercise-ev3-measuring-distance` ⭐
 1. {ref}`exercise-ev3-indicate-distance` ⭐⭐
 1. {ref}`exercise-ev3-stop-on-touch` ⭐⭐
-1. {ref}`exercise-ev3-touch-and-go`  ⭐⭐⭐
+1. {ref}`exercise-ev3-follow-the-wall` ⭐⭐⭐
+1. {ref}`exercise-ev3-follow-the-wall-again` ⭐⭐⭐⭐
 
 {download}`Slides <./slides.pdf>`
