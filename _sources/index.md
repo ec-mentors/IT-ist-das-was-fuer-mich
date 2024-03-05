@@ -5,21 +5,24 @@
 :maxdepth: 1
 
 course/index
-participants/index
 mode
-
 lego/index
-raspberrypi
-microbit/index
-website
-projects/projects
-learning
 
+learning
 orientation
 education
-#guests/guests
+website
 
 contact
 ```
+<!--
+participants/index
+
+raspberrypi
+microbit/index
+projects/projects
+
+guests/guests
+-->
 
 **🚧 Diese Seite wird im Laufe des Kurses kontinuierlich aktualisiert. 👷‍♀️**
