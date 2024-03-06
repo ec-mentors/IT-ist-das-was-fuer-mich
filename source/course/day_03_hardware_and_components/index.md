@@ -2,9 +2,9 @@
 
 **Wir zerlegen einen Computer!** 🧰 🪛 💻
 
-Heute werden wir die Laptops in Betrieb nehmen und alle notwendigen Programme installieren.
-Nebenbei sammeln wir nützliche Begriffe um zu beschreiben, was wir tun.
-Außerdem werden wir einen Computer zerlegen und uns anschauen, woraus der besteht.
+Heute werden wir einen Computer zerlegen und uns anschauen, woraus der besteht.
+
+Dazu schauen wir uns auch an, wie wir die wichtigsten Komponenten beschreiben können.
 
 <img src="./20221103_114559.jpg" alt="" height="400px">
 
