@@ -2,14 +2,15 @@
 
 **Wir zerlegen einen Computer!** 🧰 🪛 💻
 
-Heute werden wir einen Computer zerlegen und uns anschauen, woraus der besteht.
+Heute zerlegen wir einen Computer und schauen uns an, woraus der besteht.
 
-Dazu schauen wir uns auch an, wie wir die wichtigsten Komponenten beschreiben können.
+<img src="../../_static/poster_pc_aufbau_1-1.jpg" width="400">
+<img src="../../_static/poster_pc_aufbau_2-1.jpg" width="400">
 
-<img src="./20221103_114559.jpg" alt="" height="400px">
+## Während der Arbeit
 
-<img src="./i04_poster_hardware.jpg" alt="" height="400px">
+![Group 1](../../_static/hardware-1.jpeg)
+![Group 2](../../_static/hardware-2.jpeg)
+![Group 3](../../_static/hardware-3.jpeg)
 
 {download}`🎬 Slides <./slides.pdf>`
-
-% Idee: Festplatte, RAM und CPU mit verteilten Rollen
