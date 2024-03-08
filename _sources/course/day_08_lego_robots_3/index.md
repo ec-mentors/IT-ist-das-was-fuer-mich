@@ -1,3 +1,3 @@
-# Tag 08: Weiter geht's mit Lego Robotern
+# Tag 08: Lego Rboter EV3
 
 {download}`🎬 Slides <./slides.pdf>`

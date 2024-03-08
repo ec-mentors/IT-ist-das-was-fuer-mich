@@ -20,8 +20,7 @@ Your browser does not support the video tag.
 ## Setup
 
 Für die Lego Roboter brauchen wir ein Programm, das unter diesem
-[Link](https://education.lego.com/de-de/downloads/retiredproducts/mindstorms-ev3-lab/software)
-zu finden ist. Es funktioniert auch unter Windows 11.
+[Link](https://education.lego.com/de-de/downloads/retiredproducts/mindstorms-ev3-lab/software) zu finden ist. Es funktioniert auch unter Windows 11.
 
 ## Aufgaben
 
