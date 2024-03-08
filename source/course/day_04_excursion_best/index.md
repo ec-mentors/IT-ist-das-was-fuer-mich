@@ -2,4 +2,4 @@
 
 Die BeST ist die größte Bildungsmesse in Österreich. Ca. 350 Aussteller präsentieren sich und ihre Angebote in der Stadthalle.
 
-{download}`🎬 Slides <./slides.pdf>`
+![Gruppenbild](../../_static/ausflug_best.jpg)
