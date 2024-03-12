@@ -38,7 +38,7 @@ Der Roboter bewegt sich zum Würfel hin, und schiebt ihn zuerst nach vorne, dann
 
 ```
 
-```{exercise} Ev3 Sokoban ⭐⭐⭐⭐ bis ⭐⭐⭐⭐⭐
+```{exercise} Ev3 Sokoban ⭐⭐⭐⭐⭐
 :label: exercise-ev3-sokoban
 
 Kennst du das Spiel Sokoban? Du kannst hier mehr darüber lesen: de.wikipedia.org/wiki/Sokoban

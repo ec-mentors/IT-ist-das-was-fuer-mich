@@ -344,6 +344,47 @@ document.write(`
                   
   <section id="farben-und-linien">
 <h1>Farben und Linien<a class="headerlink" href="#farben-und-linien" title="Link to this heading">#</a></h1>
+<div class="exercise admonition" id="exercise-ev3-calibrate-sensor">
+
+<p class="admonition-title"><span class="caption-number">Exercise 17 </span> (Ev3 Farbsensor kalibrieren ⭐)</p>
+<section id="exercise-content">
+<p>Wir werden hier den Farbsensor verwenden um zwischen hell und dunkel zu unterscheiden.</p>
+<p>Dazu müssen wir den Farbsensor zuerst kalibrieren, d.h. wir müssen ihm zeigen, was hell und dunkel ist. Dazu stellen wir ihn so hin, dass er über etwas hellem steht, messen die Menge des reflektierten Lichts, und speichern diesen Wert als hell. Dann machen wir dasselbe mit dunkel.</p>
+<p>Hier wird hell ein weißes oder gelbes Klebeband sein, dunkel ist der Boden.</p>
+<p>Im Bild ist ein Beispielcode, wie du den Sensor kalibrieren kannst.</p>
+<p><img alt="code sample" src="../_images/sensor-kalibrieren.png" /></p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-ev3-go-to-line">
+
+<p class="admonition-title"><span class="caption-number">Exercise 18 </span> (Ev3 Fahren bis zur Linie ⭐⭐)</p>
+<section id="exercise-content">
+<p>Wenn der Farbsensor zwischen hell und dunkel unterscheiden kann, können wir das verwenden, um ihn an einer hellen Linie stoppen zu lassen.</p>
+<p>Wie geht das? Der Roboter fährt vorwärts. Er wartet, bis das die Menge an reflektiertem Licht einen Grenzwert überschreitet. Dann stoppt er.</p>
+<p>Wo liegt dieser Grenzwert? Das musst du ausprobieren.</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-ev3-back-and-forth">
+
+<p class="admonition-title"><span class="caption-number">Exercise 19 </span> (Ev3 Pendeln ⭐⭐⭐)</p>
+<section id="exercise-content">
+<p>Der Roboter fährt vorwärts bis zur hellen Linie. Dann fährt er rückwärts bis zur anderen hellen Linie. Das wiederholt er 5 mal.</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-ev3-follow-line">
+
+<p class="admonition-title"><span class="caption-number">Exercise 20 </span> (Ev3 Der Linie folgen ⭐⭐⭐)</p>
+<section id="exercise-content">
+<p>Der Roboter soll der hellen Linie folgen. Wenn die Linie gerade ist, ist das nicht schwer - er muss nur geradeaus fahren. Wenn die Linie aber Kurven enthält, ist das ein bisschen schwieriger.</p>
+<p>Es gibt verschiedene Algorithmen, um das Problem zu lösen. Der einfachste geht so:</p>
+<p>Der Roboter misst das reflektierte Licht. Wenn der Wert eine bestimmt Schwelle unterschreitet, bewegt er sich ein bisschen zur Linie hin, sonst bewegt er sich ein bisschen in die andere Richtung. Er fährt also mal ein bisschen nach links, dann ein bisschen nach rechts. Das schaut nicht sehr elegant aus, aber es funktioniert.</p>
+<p><strong>Bonusfragen</strong></p>
+<p>Was passiert, wenn die Linie einen rechten Winkel enthält?</p>
+<p>Was passiert, wenn die Linie einen spitzen Winkel enthält?</p>
+<p>Macht es einen Unterschied, in welche Richtung der Roboter der Linie folgt, also an welchem Ende er beginnt?</p>
+<p>Findest du einen besseren Algorithmus? Also einen, bei dem der Roboter nicht so stark ruckelt?</p>
+</section>
+</div>
 </section>
 
 
