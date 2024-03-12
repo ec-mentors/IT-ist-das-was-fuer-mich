@@ -8,36 +8,42 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tag XX 🎈
+## Tag 08 🎈
 
-<TODO: Stichworte zu heutigen Themen>
+Lego Roboter: Sensoren, Schleifen, Schalter
 
 ---
 
 ## Intro 🌅
 
-*Ein neuer Tag*
+Mit welchem Gefühl bist du heute morgen hergekommen?
 
 ---
 
 ## Was passiert heute? 🗒️
 
-* Fragen/Themen die wir heute behandeln...
-* ...
+* Wiederholung von gestern
+* Roboterarm
+* Lichtsensor
 
 ---
 
 ## Was war gestern? 🤔
 
-### <Gestriges Thema>
-
-* Frage für Wiederholung
+* Welchen Sensor habt ihr gestern verwendet?
+* Wie kann ich Wiederholungen im Code darstellen?
 
 ---
 
-## <Heutiges Thema>
+## Mehr Roboter!
 
-* Mehr Infos zu heute oder direkter Übergang.
+* Aufgaben anschauen
+
+---
+
+## Einparkhilfe
+
+* ...
 
 ---
 
@@ -49,40 +55,34 @@ Gleich geht's weiter.
 
 ## Was haben wir heute gelernt? 📝
 
-## Begriffe & Zusammenhänge
-
-*Was war euch wichtig?*
-
----
-
-## Outro 🌆
-
-*Wieder viel gemacht*
-
----
-
-### Was war heute?
-
-* Kurze Zusammenfassung
+* Roboterarm bewegen
+* Kontrast erkennen
+* Einer Linie folgen
 
 ---
 
 ### Was kommt morgen
 
-* Kurzer Ausblick
-
----
-
-## Retrospektive
-
-* Was hast du gelernt?
-* Was hat dich überrascht?
-* Was nimmst du mit für morgen?
+* Lego Challenge!
 
 ---
 
 ## Bitte alles aufräumen! 🧹
 
+* Alle Legoteile in die Kiste
+* Roboter abdrehen, auf die Kiste stellen
+* Laptop und Kabel ins Regal
+* Unterlagen und Stifte einpacken
+* Sonstige Dinge wegräumen
+
 ---
 
-# Wir freuen uns auf morgen! 😃
+## Retrospektive (ein bisschen anders)
+
+* Bei welcher Aufgabe hast du dich am meisten geärgert?
+* Worauf bist du besonders stolz?
+* Mit welchem Gefühl gehst du hier weg?
+
+---
+
+# Viel Erfolg morgen! 😃
