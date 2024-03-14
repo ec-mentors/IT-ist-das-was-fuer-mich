@@ -11,15 +11,60 @@ können.
 
 <img src="./i04_guest_JuliaMittas.jpg" alt="">
 
-## Game Dev (Sophie Amelien)
+## Software Dev (Aymara)
+
+```{exercise} Unsere Fragen an Aymara (Software Dev)
+:label: exercise-questions-for-aymara
+
+Aymara ist Softwareentwicklerin bei [ACL advanced commerce labs GmbH](https://www.acl.at/).
+
+Fragen:
+
+* Was macht diese Firma?
+* Was glaubst du, macht eine Softwareentwicklerin?
+* Welche Fragen möchtest du Aymara stellen?
+```
+
+## UX-Design (Anna)
+```{exercise} Unsere Fragen an Anna
+:label: exercise-questions-for-anna
+
+Anna arbeitet als UX Designerin bei [applied by zeb](https://www.zeb-applied.com/).
+
+Fragen:
+
+* Was macht diese Firma?
+* Was glaubst du, macht eine UX-Designerin?
+* Welche Fragen möchtest du Anna stellen?
+
+```
+
+## Software Dev (Sofie)
+
+```{exercise} Unsere Fragen an Sofie
+:label: exercise-questions-for-sofie
+
+Sofie ist Softwareentwicklerin bei [ITSV](https://www.itsv.at).
+
+Fragen:
+
+* Was macht die Firma ITSV?
+* Hattest du schon einmal mit ihren Produkten zu tun?
+* Wie unterscheidet sich die Arbeit von Sofie und Aymara?
+* Welche Fragen möchtest du Sofie stellen?
+
+```
+
+## Game Dev (Sophie)
 
 ```{exercise} Unsere Fragen an Sophie (Game Dev)
 :label: exercise-questions-for-sophie
 
-Sophie Amelien ist Spieleentwicklerin.
+Sophie ist Spieleentwicklerin.
 Sie arbeitet als Programmiererin bei [Mi’pu’mi Games](https://www.mipumi.com/).
 
 Fragen:
+
 * Was macht die Firma?
 * Kennst du vielleicht sogar eines der Spiele?
 * Was glaubst du, macht eine Spieleentwicklerin?
@@ -27,15 +72,13 @@ Fragen:
 
 ```
 
-Sophie war so freundlich uns nach einem ihrer vergangenen Besuche folgende Dokumente zur
-Verfügung zu stellen:
-* {download}`Game Dev Ausbildungen in Österreich (2023) <../_static/GamesAusbildungen.pdf>`
+Sophie hat uns in der Vergangenheit folgende Dokumente zur Verfügung gestellt:
 
-Hier noch die alten Versionen:
+* {download}`Game Dev Ausbildungen in Österreich (2023) <../_static/GamesAusbildungen.pdf>`
 * {download}`Game Dev Ausbildungen in Österreich (2022)<../_static/AusbildungenInOesterreich.pdf>`
 * {download}`Game Dev Jobs in der Spieleindustrie (2022)<../_static/JobsInDerSpieleIndustrie.pdf>`
 
-
+<!--
 ## Projektleiterin und Scrum Master (Dagmar Labes)
 
 ```{exercise} Unsere Fragen an Dagmar (Projektleiterin & Scrum Master)
@@ -103,3 +146,4 @@ Für solche Fragen ist Zeit, wenn sie zu uns auf Besuch kommen.
 
 Gibt es noch andere Fragen, die du stellen möchtest?
 ```
+-->
