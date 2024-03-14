@@ -44,6 +44,6 @@ Die Aufgaben werden von oben nach unten schwieriger. Du wirst nicht alle davon l
 Wo findest du Hilfe?
 
 * Youtube
-* Lego Mindstorms -> Robot Educator -> Grundlagen 2-4, 7
+* Lego Mindstorms -> Robot Educator -> Grundlagen 
 
 {download}`Slides <./slides.pdf>`

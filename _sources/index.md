@@ -7,6 +7,8 @@
 course/index
 mode
 lego/index
+microbit/index
+guests/guests
 
 learning
 orientation
@@ -19,7 +21,6 @@ contact
 participants/index
 
 raspberrypi
-microbit/index
 projects/projects
 
 guests/guests
