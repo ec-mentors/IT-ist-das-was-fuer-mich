@@ -1,11 +1,7 @@
 # Farben und Linien
 
 ```{exercise} Ev3 Farbsensor kalibrieren ⭐
-<<<<<<< HEAD
 :label: exercise-ev3-calibrate-sensor
-=======
-:label: exercise-calibrate-sensor
->>>>>>> a2978b5 (colors and lines)
 
 Wir werden hier den Farbsensor verwenden um zwischen hell und dunkel zu unterscheiden.
 
@@ -15,20 +11,11 @@ Hier wird hell ein weißes oder gelbes Klebeband sein, dunkel ist der Boden.
 
 Im Bild ist ein Beispielcode, wie du den Sensor kalibrieren kannst.
 
-<<<<<<< HEAD
 ![code sample](./sensor-kalibrieren.png)
 ```
 
 ```{exercise} Ev3 Fahren bis zur Linie ⭐⭐
 :label: exercise-ev3-go-to-line
-=======
-```
-
-![./sensor-kalibrieren.png]
-
-```{exercise} Ev3 Fahren bis zur Linie ⭐⭐
-:label: exercise-go-to-line
->>>>>>> a2978b5 (colors and lines)
 
 Wenn der Farbsensor zwischen hell und dunkel unterscheiden kann, können wir das verwenden, um ihn an einer hellen Linie stoppen zu lassen.
 
