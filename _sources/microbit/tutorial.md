@@ -49,8 +49,6 @@ Beantworte dabei auch die folgenden Fragen:
 * Welche Möglichkeiten gibt es um mit dem Gerät zu interagieren?
 ```
 
-<img src="./i04_poster_microbit.jpg" alt="">
-
 ## Software
 
 Wenn der Microbit tun soll, was wir wollen, müssen wir ein Programm
