@@ -186,7 +186,6 @@
 <li class="toctree-l2"><a class="reference internal" href="objects_and_obstacles.html">Hindernisse und andere Objekte</a></li>
 <li class="toctree-l2"><a class="reference internal" href="grab_and_release.html">Mitnehmen und wegschieben</a></li>
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Farben und Linien</a></li>
-
 </ul>
 </li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../microbit/index.html">BBC micro:bit</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -325,9 +324,7 @@ document.write(`
   </button>
 `);
 </script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="fa-solid fa-list"></span>
-</label>
+
 </div></div>
       
     </div>
@@ -343,17 +340,6 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
-            <div>
-                <h2> Inhalt </h2>
-            </div>
-            <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Farben und Linien</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#head-label-exercise-ev3-calibrate-sensor">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-:label: exercise-ev3-calibrate-sensor</a></li>
-</ul>
-
-            </nav>
         </div>
     </div>
 </div>
@@ -365,39 +351,21 @@ document.write(`
                   
   <section id="farben-und-linien">
 <h1>Farben und Linien<a class="headerlink" href="#farben-und-linien" title="Link to this heading">#</a></h1>
-<div class="exercise admonition" id="lego/colors_and_lines-exercise-0">
+<div class="exercise admonition" id="exercise-ev3-calibrate-sensor">
 
 <p class="admonition-title"><span class="caption-number">Exercise 19 </span> (Ev3 Farbsensor kalibrieren ⭐)</p>
 <section id="exercise-content">
+<p>Wir werden hier den Farbsensor verwenden um zwischen hell und dunkel zu unterscheiden.</p>
+<p>Dazu müssen wir den Farbsensor zuerst kalibrieren, d.h. wir müssen ihm zeigen, was hell und dunkel ist. Dazu stellen wir ihn so hin, dass er über etwas hellem steht, messen die Menge des reflektierten Lichts, und speichern diesen Wert als hell. Dann machen wir dasselbe mit dunkel.</p>
+<p>Hier wird hell ein weißes oder gelbes Klebeband sein, dunkel ist der Boden.</p>
+<p>Im Bild ist ein Beispielcode, wie du den Sensor kalibrieren kannst.</p>
+<p><img alt="code sample" src="../_images/sensor-kalibrieren.png" /></p>
 </section>
 </div>
 <div class="exercise admonition" id="exercise-ev3-go-to-line">
 
 <p class="admonition-title"><span class="caption-number">Exercise 20 </span> (Ev3 Fahren bis zur Linie ⭐⭐)</p>
 <section id="exercise-content">
-<p>=======</p>
-</section>
-</div>
-<p>![./sensor-kalibrieren.png]</p>
-<div class="exercise admonition" id="exercise-go-to-line">
-
-<p class="admonition-title"><span class="caption-number">Exercise 21 </span> (Ev3 Fahren bis zur Linie ⭐⭐)</p>
-<section id="exercise-content">
-<blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><p>a2978b5 (colors and lines)</p>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
 <p>Wenn der Farbsensor zwischen hell und dunkel unterscheiden kann, können wir das verwenden, um ihn an einer hellen Linie stoppen zu lassen.</p>
 <p>Wie geht das? Der Roboter fährt vorwärts. Er wartet, bis das die Menge an reflektiertem Licht einen Grenzwert überschreitet. Dann stoppt er.</p>
 <p>Wo liegt dieser Grenzwert? Das musst du ausprobieren.</p>
@@ -405,14 +373,14 @@ document.write(`
 </div>
 <div class="exercise admonition" id="exercise-ev3-back-and-forth">
 
-<p class="admonition-title"><span class="caption-number">Exercise 22 </span> (Ev3 Pendeln ⭐⭐⭐)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 21 </span> (Ev3 Pendeln ⭐⭐⭐)</p>
 <section id="exercise-content">
 <p>Der Roboter fährt vorwärts bis zur hellen Linie. Dann fährt er rückwärts bis zur anderen hellen Linie. Das wiederholt er 5 mal.</p>
 </section>
 </div>
 <div class="exercise admonition" id="exercise-ev3-follow-line">
 
-<p class="admonition-title"><span class="caption-number">Exercise 23 </span> (Ev3 Der Linie folgen ⭐⭐⭐)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 22 </span> (Ev3 Der Linie folgen ⭐⭐⭐)</p>
 <section id="exercise-content">
 <p>Der Roboter soll der hellen Linie folgen. Wenn die Linie gerade ist, ist das nicht schwer - er muss nur geradeaus fahren. Wenn die Linie aber Kurven enthält, ist das ein bisschen schwieriger.</p>
 <p>Es gibt verschiedene Algorithmen, um das Problem zu lösen. Der einfachste geht so:</p>
@@ -424,32 +392,6 @@ document.write(`
 <p>Findest du einen besseren Algorithmus? Also einen, bei dem der Roboter nicht so stark ruckelt?</p>
 </section>
 </div>
-</section>
-<section id="head-label-exercise-ev3-calibrate-sensor">
-<h1>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-:label: exercise-ev3-calibrate-sensor<a class="headerlink" href="#head-label-exercise-ev3-calibrate-sensor" title="Link to this heading">#</a></h1>
-<p>:label: exercise-calibrate-sensor</p>
-<blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><blockquote>
-<div><p>a2978b5 (colors and lines)</p>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-<p>Wir werden hier den Farbsensor verwenden um zwischen hell und dunkel zu unterscheiden.</p>
-<p>Dazu müssen wir den Farbsensor zuerst kalibrieren, d.h. wir müssen ihm zeigen, was hell und dunkel ist. Dazu stellen wir ihn so hin, dass er über etwas hellem steht, messen die Menge des reflektierten Lichts, und speichern diesen Wert als hell. Dann machen wir dasselbe mit dunkel.</p>
-<p>Hier wird hell ein weißes oder gelbes Klebeband sein, dunkel ist der Boden.</p>
-<p>Im Bild ist ein Beispielcode, wie du den Sensor kalibrieren kannst.</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-<img alt="code sample" src="../_images/sensor-kalibrieren.png" /></p>
 </section>
 
 
@@ -488,23 +430,7 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> Inhalt
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Farben und Linien</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#head-label-exercise-ev3-calibrate-sensor">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-:label: exercise-ev3-calibrate-sensor</a></li>
-</ul>
-
-  </nav></div>
-
-</div></div>
+                <div class="bd-sidebar-secondary bd-toc"></div>
               
             
           </div>
