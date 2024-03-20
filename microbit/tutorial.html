@@ -351,9 +351,9 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#software">Software</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#erste-kleine-programme">Erste kleine Programme 🐣</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#etwas-groszere-aufgaben">Etwas größere Aufgaben 🐤</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#retrospektive-mit-emojis">Retrospektive mit Emojis? 🤔</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#zahlen-wurfeln">Zahlen würfeln? 🎲</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#emojis-wurfeln">Emojis würfeln? 🎲 + 😃 = ❓</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#retrospektive-mit-emojis">Retrospektive mit Emojis? 🤔</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mehr-sensoren">Mehr Sensoren 🤹</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#microbits-verbinden">Microbits verbinden 📡🤝</a></li>
 </ul>
@@ -485,11 +485,39 @@ ob WebUSB mit einem anderen Browser klappt.</p>
 Wir haben den passenden Block gewählt und waren fast schon fertig.
 Wir werden uns nun ansehen, wie man etwas größere Programme aus
 kleinen Einzelteilen zusammen setzen kann.</p>
+<section id="retrospektive-mit-emojis">
+<h3>Retrospektive mit Emojis? 🤔<a class="headerlink" href="#retrospektive-mit-emojis" title="Link to this heading">#</a></h3>
+<p>Wir wollen ein Programm schreiben, über das wir anzeigen können, wie es uns
+geht oder wie uns der Tag gefallen hat. Wenn wir etwas gut finden, könnten wir
+einen 😃 anzeigen und wenn wir nicht so
+überzeugt sind bspw. einen 😐 darstellen.</p>
+<div class="exercise admonition" id="exercise-micro-bit-retrospective">
+
+<p class="admonition-title"><span class="caption-number">Exercise 28 </span> (Emoji-Stimmung)</p>
+<section id="exercise-content">
+<p>Die Stimmung soll man über die Buttons auswählen können.</p>
+<p>Das gewünschte Verhalten siehst du hier:</p>
+<p><img alt="Emoji Retrospektive mit dem Micro Bit" src="../_images/emoji_retro.gif" /></p>
+<p>Aufgaben und zu beantwortende Fragen:</p>
+<ol class="arabic simple">
+<li><p>Beschreibe das Verhalten in Worten</p></li>
+<li><p>Gibt es eine vereinfachte Aufgabe, die
+leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?</p></li>
+<li><p>Welche Blöcke wirst du brauchen?</p></li>
+<li><p>Wie hängen die Blöcke zusammen?</p></li>
+</ol>
+<p>Skizziere das Programm auf Papier oder einem Whiteboard.
+Versuche dir zuerst Gedanken zu machen und die obigen Fragen
+zu beantworten und erst dann den Code zu erstellen.</p>
+<p>Bei Fragen oder Unklarheiten einfach melden.</p>
+</section>
+</div>
+</section>
 <section id="zahlen-wurfeln">
 <h3>Zahlen würfeln? 🎲<a class="headerlink" href="#zahlen-wurfeln" title="Link to this heading">#</a></h3>
 <div class="exercise admonition" id="exercise-micro-bit-dice">
 
-<p class="admonition-title"><span class="caption-number">Exercise 28 </span> (Dice (Würfel))</p>
+<p class="admonition-title"><span class="caption-number">Exercise 29 </span> (Dice (Würfel))</p>
 <section id="exercise-content">
 <p>Wir wollen den Micro Bit so programmieren, dass man ihn verwenden kann wie einen Würfel:
 Wenn man ihn schüttelt, soll er eine zufällige Zahl anzeigen.</p>
@@ -510,7 +538,7 @@ An stelle von Zahlen, könnte man ja auch zufällige Emojis anzeigen, oder?</p>
 Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?</p>
 <div class="exercise admonition" id="exercise-micro-bit-emoji-dice">
 
-<p class="admonition-title"><span class="caption-number">Exercise 29 </span> (Emoji-Dice (Emoji-Würfel))</p>
+<p class="admonition-title"><span class="caption-number">Exercise 30 </span> (Emoji-Dice (Emoji-Würfel))</p>
 <section id="exercise-content">
 <p>Wenn man den Micro Bit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.</p>
 <p>Fragen:</p>
@@ -525,34 +553,6 @@ Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?</p>
 Wir haben aus den bestehenden Grundbausteinen etwas neues geschaffen!</p>
 <p>Wir werden nun die Ideen und Konzepte der vorherigen Übungen weiter aufgreifen und
 noch die Möglichkeit von User Input durch Buttons berücksichtigen.</p>
-</section>
-<section id="retrospektive-mit-emojis">
-<h3>Retrospektive mit Emojis? 🤔<a class="headerlink" href="#retrospektive-mit-emojis" title="Link to this heading">#</a></h3>
-<p>Wir wollen ein Programm schreiben, über das wir anzeigen können, wie es uns
-geht oder wie uns der Tag gefallen hat. Wenn wir etwas gut finden, könnten wir
-einen 😃 anzeigen und wenn wir nicht so
-überzeugt sind bspw. einen 😐 darstellen.</p>
-<div class="exercise admonition" id="exercise-micro-bit-retrospective">
-
-<p class="admonition-title"><span class="caption-number">Exercise 30 </span> (Emoji-Stimmung)</p>
-<section id="exercise-content">
-<p>Die Stimmung soll man über die Buttons auswählen können.</p>
-<p>Das gewünschte Verhalten siehst du hier:</p>
-<p><img alt="Emoji Retrospektive mit dem Micro Bit" src="../_images/emoji_retro.gif" /></p>
-<p>Aufgaben und zu beantwortende Fragen:</p>
-<ol class="arabic simple">
-<li><p>Beschreibe das Verhalten in Worten</p></li>
-<li><p>Gibt es eine vereinfachte Aufgabe, die
-leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?</p></li>
-<li><p>Welche Blöcke wirst du brauchen?</p></li>
-<li><p>Wie hängen die Blöcke zusammen?</p></li>
-</ol>
-<p>Skizziere das Programm auf Papier oder einem Whiteboard.
-Versuche dir zuerst Gedanken zu machen und die obigen Fragen
-zu beantworten und erst dann den Code zu erstellen.</p>
-<p>Bei Fragen oder Unklarheiten einfach melden.</p>
-</section>
-</div>
 </section>
 <section id="mehr-sensoren">
 <h3>Mehr Sensoren 🤹<a class="headerlink" href="#mehr-sensoren" title="Link to this heading">#</a></h3>
@@ -868,9 +868,9 @@ bringen.</p>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#software">Software</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#erste-kleine-programme">Erste kleine Programme 🐣</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#etwas-groszere-aufgaben">Etwas größere Aufgaben 🐤</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#retrospektive-mit-emojis">Retrospektive mit Emojis? 🤔</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#zahlen-wurfeln">Zahlen würfeln? 🎲</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#emojis-wurfeln">Emojis würfeln? 🎲 + 😃 = ❓</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#retrospektive-mit-emojis">Retrospektive mit Emojis? 🤔</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mehr-sensoren">Mehr Sensoren 🤹</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#microbits-verbinden">Microbits verbinden 📡🤝</a></li>
 </ul>
