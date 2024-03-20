@@ -15,10 +15,9 @@ Um ihn kennenzulernen machen wir folgende Aufgaben:
 
 Wir machen folgende Übungen:
 
+1. {ref}`exercise-micro-bit-chrome-webusb`
 1. {ref}`exercise-micro-bit-flashing-heart`
 1. {ref}`exercise-micro-bit-name-tag`
-1. {ref}`exercise-micro-bit-chrome-webusb`
-1. {ref}`exercise-micro-bit-dice`
 
 **Problemlösungsstrategien?** 🧩🤔
 
@@ -42,6 +41,7 @@ Wir machen folgende Übungen
 
 
 1. {ref}`exercise-micro-bit-retrospective`
+1. {ref}`exercise-micro-bit-dice`
 1. {ref}`exercise-micro-bit-emoji-dice`
 1. {ref}`exercise-rock-paper-scissor-part-1-reading`
 
