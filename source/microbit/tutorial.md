@@ -109,6 +109,35 @@ Wir haben den passenden Block gewählt und waren fast schon fertig.
 Wir werden uns nun ansehen, wie man etwas größere Programme aus
 kleinen Einzelteilen zusammen setzen kann.
 
+### Retrospektive mit Emojis? 🤔
+
+Wir wollen ein Programm schreiben, über das wir anzeigen können, wie es uns
+geht oder wie uns der Tag gefallen hat. Wenn wir etwas gut finden, könnten wir
+einen 😃 anzeigen und wenn wir nicht so
+überzeugt sind bspw. einen 😐 darstellen.
+
+```{exercise} Emoji-Stimmung
+:label: exercise-micro-bit-retrospective
+
+Die Stimmung soll man über die Buttons auswählen können.
+
+Das gewünschte Verhalten siehst du hier:
+
+![Emoji Retrospektive mit dem Micro Bit](emoji_retro.gif)
+
+Aufgaben und zu beantwortende Fragen:
+1. Beschreibe das Verhalten in Worten
+1. Gibt es eine vereinfachte Aufgabe, die
+   leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?
+1. Welche Blöcke wirst du brauchen?
+1. Wie hängen die Blöcke zusammen?
+
+Skizziere das Programm auf Papier oder einem Whiteboard.
+Versuche dir zuerst Gedanken zu machen und die obigen Fragen
+zu beantworten und erst dann den Code zu erstellen.
+
+Bei Fragen oder Unklarheiten einfach melden.
+```
 
 ### Zahlen würfeln? 🎲
 
@@ -150,35 +179,6 @@ Wir haben aus den bestehenden Grundbausteinen etwas neues geschaffen!
 Wir werden nun die Ideen und Konzepte der vorherigen Übungen weiter aufgreifen und
 noch die Möglichkeit von User Input durch Buttons berücksichtigen.
 
-### Retrospektive mit Emojis? 🤔
-
-Wir wollen ein Programm schreiben, über das wir anzeigen können, wie es uns
-geht oder wie uns der Tag gefallen hat. Wenn wir etwas gut finden, könnten wir
-einen 😃 anzeigen und wenn wir nicht so
-überzeugt sind bspw. einen 😐 darstellen.
-
-```{exercise} Emoji-Stimmung
-:label: exercise-micro-bit-retrospective
-
-Die Stimmung soll man über die Buttons auswählen können.
-
-Das gewünschte Verhalten siehst du hier:
-
-![Emoji Retrospektive mit dem Micro Bit](emoji_retro.gif)
-
-Aufgaben und zu beantwortende Fragen:
-1. Beschreibe das Verhalten in Worten
-1. Gibt es eine vereinfachte Aufgabe, die
-   leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?
-1. Welche Blöcke wirst du brauchen?
-1. Wie hängen die Blöcke zusammen?
-
-Skizziere das Programm auf Papier oder einem Whiteboard.
-Versuche dir zuerst Gedanken zu machen und die obigen Fragen
-zu beantworten und erst dann den Code zu erstellen.
-
-Bei Fragen oder Unklarheiten einfach melden.
-```
 
 
 ### Mehr Sensoren 🤹
