@@ -418,7 +418,46 @@ Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
 * aussprechen was ihr tun wollt! 😃
 ```
 
+### Barkeeper Training 🍸⏱️ 
 
+Barkeeper haben keine Zeit, alle Getränke abzumessen, wenn sie Cocktails mixen. Sie arbeiten mit speziellen Ausgüssen auf den Flaschen, durch die pro Sekunde eine bestimmte Menge Flüssigkeit (z.B. 2cl/Sekunde) austritt.
+
+Wenn ein Rezept also z.B. 2cl Vodka und 4cl Saft verlangt, schütten sie 1 Sekunde lang aus der Vodka-Flasche, und 2 Sekunden lang aus der Saftflasche. Dafür müssen sie sehr genau die Zeit schätzen können.
+
+Wir programmieren ein Spiel, um das zu üben.
+
+```{exercise} Trainingsapp für Barkeeper: Single Player
+:label: exercise-microbit-barkeeper-basic
+Das Spiel funktioniert so:
+1. Das Spiel startet, wenn du Button A drückst.
+1. Dein Microbit zeigt dir eine zufällige Zahl zwischen 1 und 9.
+1. Du startest das Spiel, indem du das Microbit-Logo (Touch-Sensor) drückst.
+1. Sobald du den Sensor berührst, verschwindet die Zahl wieder.
+1. Wenn du glaubst, dass die angegebene Zahl an Sekunden verstrichen ist, lässt du das Logo wieder los.
+1. Dein Microbit zeigt dir jetzt an, wie lange du das Logo tatsächlich gedrückt hast (runde den Wert auf eine ganze Zahl!).
+1. Wenn du genau richtig warst, wird dir danach ein Herz angezeigt.
+1. Wenn du zu lange gedrückt hast, wird dir ein L (für lang).
+1. Wenn du nicht lang genug gedrückt hast, wird dir ein K (für kurz) angezeigt.
+
+Implementiere es zuerst so, dass du alleine spielen kannst.
+```
+
+```{exercise} Trainingsapp für Barkeeper: 10 Gewinnt!
+:label: exercise-microbit-barkeeper-count-points
+1. Punkte zählen: Du startest mit 5 Lebenspunkten. Immer wenn du richtig liegst, bekommst du einen Lebenspunkt dazu, wenn du zu lang oder zu kurz gedrückt hast, verlierst du einen. Das Spiel endet, wenn du 0 Punkte hast (du hast verloren), oder wenn du 10 Punkte erreicht hast (du hast gewonnen!). Gib eine passende Meldung oder ein Symbol aus.
+```
+
+```{exercise} Trainingsapp für Barkeeper: Multiplayer
+:label: exercise-microbit-barkeeper-multiplayer
+1. Multiplayer: Wenn du Button A drückst, läuft das Spiel wie voher. Wenn du aber B drückst, wird die Zufallszahl an deine Kollegin geschickt, und sie muss das Logo so lange gedrückt halten.
+```
+
+```{exercise} Trainingsapp für Barkeeper: Multiplayer Tournier
+:label: exercise-microbit-barkeeper-multiplayer-points
+1. Multiplayer Contest: Ihr spielt abwechselnde Runden. Wenn du richtig geschätzt hast, bekommst du einen Punkt, die Kollegin verliert einen (und umgekehrt). Wenn ihr beide richtig wart, bekommt ihr beide einen Punkt, wenn ihr beide daneben wart, verliert ihr beide einen Punkt.
+Das Spiel endet, wenn eine Person 10 Punkte erreicht hat, oder eine Person 0 Punkte hat.
+
+```
 
 ### E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
 
