@@ -236,8 +236,8 @@ Aufgaben und Fragen:
 Hinweis:
 * Damit klar ist, welche Micro Bits miteinander kommunizieren (und welche nicht),
 wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe ausgetauscht.
-* Im Simulator gibt es zwei Microbits aber nur ein Programm.
-  Versuche in der Ich-Perspektive zu bleiben.
+* Im Simulator gibt es zwei Microbits, aber nur ein Programm.
+  Versuch in der Ich-Perspektive zu bleiben.
 ```
 
 % ```{solution} exercise-basic-radio
@@ -266,10 +266,7 @@ Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stel
 
 Kennst du das Spiel Schere, Stein, Papier?
 
-Es gibt einen Wikipedia dazu:
-- [Deutsch](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier)
-- [Arabisch](https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5)
-
+Es gibt einen [Wikipedia](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier) dazu.
 
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
 mit dem Microbit umsetzen.
@@ -418,7 +415,7 @@ Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
 * aussprechen was ihr tun wollt! 😃
 ```
 
-### Barkeeper Training 🍸⏱️ 
+## Noch eine große Aufgabe: Barkeeper Training 🍸⏱️ 
 
 Barkeeper haben keine Zeit, alle Getränke abzumessen, wenn sie Cocktails mixen. Sie arbeiten mit speziellen Ausgüssen auf den Flaschen, durch die pro Sekunde eine bestimmte Menge Flüssigkeit (z.B. 2cl/Sekunde) austritt.
 
@@ -457,35 +454,4 @@ Implementiere es zuerst so, dass du alleine spielen kannst.
 1. Multiplayer Contest: Ihr spielt abwechselnde Runden. Wenn du richtig geschätzt hast, bekommst du einen Punkt, die Kollegin verliert einen (und umgekehrt). Wenn ihr beide richtig wart, bekommt ihr beide einen Punkt, wenn ihr beide daneben wart, verliert ihr beide einen Punkt.
 Das Spiel endet, wenn eine Person 10 Punkte erreicht hat, oder eine Person 0 Punkte hat.
 
-```
-
-### E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
-
-Der Micro Bit hat diverse Schnittstellen.
-Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.
-
-Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
-Micro Bit steuern.
-
-Hast du Ideen, was man damit alles machen könnte?
-
-```{exercise} E-Textile Ideensammlung und Konzepte
-:label: exercise-micro-bit-e-textile-1
-
-*In dieser Übung wird noch nicht programmiert, das kommt später.*
-
-Ihr habt einen Micro Bit, diverse LEDs und einen elektrisch leitenden Faden.
-Damit könnt ihr beispielsweise einen Schuh oder eine Tasche zum Leuchten
-bringen.
-
-Diskutiert gemeinsam und arbeitet einen Vorschlag aus:
-* Was für Ideen fallen euch ein?
-* Welche davon würdet ihr gerne umsetzen?
-
-Beschreibt eure Idee im Detail:
-* Wie sieht sie aus?
-* Welche Aufgaben übernimmt der Micro Bit?
-* Wie könnte das Programm aussehen?
-
-Präsentiert eure Idee der Gruppe.
 ```
