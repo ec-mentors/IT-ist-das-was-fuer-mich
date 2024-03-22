@@ -360,6 +360,7 @@ document.write(`
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#eine-grosze-aufgabe">Eine große Aufgabe 🧗</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#schere-stein-papier">Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#barkeeper-training">Barkeeper Training 🍸⏱️</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#e-textile-mit-dem-micro-bit">E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓</a></li>
 </ul>
 </li>
@@ -786,6 +787,59 @@ Teile zu einem Ganzen zusammen zu fügen.</p>
 </section>
 </div>
 </section>
+<section id="barkeeper-training">
+<h3>Barkeeper Training 🍸⏱️<a class="headerlink" href="#barkeeper-training" title="Link to this heading">#</a></h3>
+<p>Barkeeper haben keine Zeit, alle Getränke abzumessen, wenn sie Cocktails mixen. Sie arbeiten mit speziellen Ausgüssen auf den Flaschen, durch die pro Sekunde eine bestimmte Menge Flüssigkeit (z.B. 2cl/Sekunde) austritt.</p>
+<p>Wenn ein Rezept also z.B. 2cl Vodka und 4cl Saft verlangt, schütten sie 1 Sekunde lang aus der Vodka-Flasche, und 2 Sekunden lang aus der Saftflasche. Dafür müssen sie sehr genau die Zeit schätzen können.</p>
+<p>Wir programmieren ein Spiel, um das zu üben.</p>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-basic">
+
+<p class="admonition-title"><span class="caption-number">Exercise 39 </span> (Trainingsapp für Barkeeper: Single Player)</p>
+<section id="exercise-content">
+<p>Das Spiel funktioniert so:</p>
+<ol class="arabic simple">
+<li><p>Das Spiel startet, wenn du Button A drückst.</p></li>
+<li><p>Dein Microbit zeigt dir eine zufällige Zahl zwischen 1 und 9.</p></li>
+<li><p>Du startest das Spiel, indem du das Microbit-Logo (Touch-Sensor) drückst.</p></li>
+<li><p>Sobald du den Sensor berührst, verschwindet die Zahl wieder.</p></li>
+<li><p>Wenn du glaubst, dass die angegebene Zahl an Sekunden verstrichen ist, lässt du das Logo wieder los.</p></li>
+<li><p>Dein Microbit zeigt dir jetzt an, wie lange du das Logo tatsächlich gedrückt hast (runde den Wert auf eine ganze Zahl!).</p></li>
+<li><p>Wenn du genau richtig warst, wird dir danach ein Herz angezeigt.</p></li>
+<li><p>Wenn du zu lange gedrückt hast, wird dir ein L (für lang).</p></li>
+<li><p>Wenn du nicht lang genug gedrückt hast, wird dir ein K (für kurz) angezeigt.</p></li>
+</ol>
+<p>Implementiere es zuerst so, dass du alleine spielen kannst.</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-count-points">
+
+<p class="admonition-title"><span class="caption-number">Exercise 40 </span> (Trainingsapp für Barkeeper: 10 Gewinnt!)</p>
+<section id="exercise-content">
+<ol class="arabic simple">
+<li><p>Punkte zählen: Du startest mit 5 Lebenspunkten. Immer wenn du richtig liegst, bekommst du einen Lebenspunkt dazu, wenn du zu lang oder zu kurz gedrückt hast, verlierst du einen. Das Spiel endet, wenn du 0 Punkte hast (du hast verloren), oder wenn du 10 Punkte erreicht hast (du hast gewonnen!). Gib eine passende Meldung oder ein Symbol aus.</p></li>
+</ol>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-multiplayer">
+
+<p class="admonition-title"><span class="caption-number">Exercise 41 </span> (Trainingsapp für Barkeeper: Multiplayer)</p>
+<section id="exercise-content">
+<ol class="arabic simple">
+<li><p>Multiplayer: Wenn du Button A drückst, läuft das Spiel wie voher. Wenn du aber B drückst, wird die Zufallszahl an deine Kollegin geschickt, und sie muss das Logo so lange gedrückt halten.</p></li>
+</ol>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-multiplayer-points">
+
+<p class="admonition-title"><span class="caption-number">Exercise 42 </span> (Trainingsapp für Barkeeper: Multiplayer Tournier)</p>
+<section id="exercise-content">
+<ol class="arabic simple">
+<li><p>Multiplayer Contest: Ihr spielt abwechselnde Runden. Wenn du richtig geschätzt hast, bekommst du einen Punkt, die Kollegin verliert einen (und umgekehrt). Wenn ihr beide richtig wart, bekommt ihr beide einen Punkt, wenn ihr beide daneben wart, verliert ihr beide einen Punkt.
+Das Spiel endet, wenn eine Person 10 Punkte erreicht hat, oder eine Person 0 Punkte hat.</p></li>
+</ol>
+</section>
+</div>
+</section>
 <section id="e-textile-mit-dem-micro-bit">
 <h3>E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓<a class="headerlink" href="#e-textile-mit-dem-micro-bit" title="Link to this heading">#</a></h3>
 <p>Der Micro Bit hat diverse Schnittstellen.
@@ -795,7 +849,7 @@ Micro Bit steuern.</p>
 <p>Hast du Ideen, was man damit alles machen könnte?</p>
 <div class="exercise admonition" id="exercise-micro-bit-e-textile-1">
 
-<p class="admonition-title"><span class="caption-number">Exercise 39 </span> (E-Textile Ideensammlung und Konzepte)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 43 </span> (E-Textile Ideensammlung und Konzepte)</p>
 <section id="exercise-content">
 <p><em>In dieser Übung wird noch nicht programmiert, das kommt später.</em></p>
 <p>Ihr habt einen Micro Bit, diverse LEDs und einen elektrisch leitenden Faden.
@@ -877,6 +931,7 @@ bringen.</p>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#eine-grosze-aufgabe">Eine große Aufgabe 🧗</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#schere-stein-papier">Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#barkeeper-training">Barkeeper Training 🍸⏱️</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#e-textile-mit-dem-micro-bit">E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓</a></li>
 </ul>
 </li>
