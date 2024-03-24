@@ -40,6 +40,7 @@ Informationen zusammenfasst. Ein paar konkrete
 Beispiele:
 
 **Videos:**
+
 * [Applikationsentwicklung – Coding](https://www.youtube.com/watch?v=HIYNtgVid4w&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=10)
   * [Beschreibung der Wirtschaftskammer](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-applikationsentwicklung-coding.html)
 * [Elektronik – Angewandte Elektronik](https://www.youtube.com/watch?v=TscYHebkwfc&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=40)
@@ -49,24 +50,12 @@ Beispiele:
 * [Elektrotechnik – Automatisierungs- und Prozessleittechnik](https://www.youtube.com/watch?v=8ETgNZkQyAY&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=47)
 
 Außerdem gibt es noch:
+
 * [Informationstechnologie – Schwerpunkt Systemtechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-systemtechnik.html)
 * [Informationstechnologie – Schwerpunkt Betriebstechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-betriebstechnik.html)
 * [EDV-Kaufmann / EDV-Kauffrau](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-edv-kaufmannfrau.html)
 
-Ein paar derzeit offene Lehrstellen von uns recherchiert:
-* ...
-
-% TBD: entfernen
-Links:
-* https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für Lehrlinge)
-* https://www.nasicher.at/de/technisch
-* https://www.wienerlinien.at/lehrlingsausbildung
-* Und viele mehr!
-
-
 ### Voraussetzungen
-
-% TBD: Gilt für alle, was machen wir damit?
 
 * **Pflichtschulabschluss**
 * Du bist kommunikativ, arbeitest gerne im Team und liebst neue
@@ -83,13 +72,7 @@ Links:
 ### Finanzen
 
 Die Entschädigung als Lehrling hängt grundsätzlich vom Lehrberuf ab.
-Als IT-Techniker:in beträgt diese zum Beispiel kollektivvertraglich
-mindestens:
-
-1. Lehrjahr: 730€
-1. Lehrjahr: 900€
-1. Lehrjahr: 1.080€
-1. Lehrjahr: 1.410€
+Du kannst die Gehälter im Kollektivvertrag nachlesen.
 
 ## Kurse
 
@@ -102,7 +85,7 @@ Es gibt wirklich sehr viele Angebote, das hier sind also nur ein paar Beispiele.
 
 Hier ein paar Beispiele von unterschiedlichen Kursanbietern:
 
-* [Java Basic](https://everyonecodes.io/programmes/java-basic), [Java Advanced](https://everyonecodes.io/programmes/java-advanced) von everyone codes
+* [Java Basic](https://everyonecodes.io/programmes/java-basic) von everyone codes
 * [Python Programming](https://codefactory.wien/en/python-programming-en/), [Full Stack Web Development](https://codefactory.wien/en/full-stack-web-developer-en/) von Code Factory
 * [Java für Einsteiger:innen](https://www.wifiwien.at/kurs/18171x-ausbildung-zum-geprueften-software-developer-java-fuer-einsteigerinnen) vom WIFI
 * [Software Entwickler/innen](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/) vom waff
@@ -156,6 +139,7 @@ durch das AMS möglich.
 * Und noch viele andere Einrichtungen und HTLs...
 
 Wichtig zu erwähnen:
+
 * Lehrgänge werden oft in Tages- oder Abendform angeboten.
   Das heißt, wenn man die Abendform nimmt, dann ist es auch möglich, tagsüber zu arbeiten und dann am Abend den Lehrgang zu machen.
 * Es gibt oft unterschiedliche Einstiegsvarianten, je nachdem
@@ -163,10 +147,10 @@ Wichtig zu erwähnen:
   Das heißt es gibt Angebote für Pflichtschulabschluss,
   Fachschulabschluss, Reifeprüfung, etc.
 
-
 ### Voraussetzungen
 
 Die konkreten Voraussetzungen unterscheiden sich dann von Lehrgang zu Lehrgang, sie umfassen typischerweise:
+
 * Letzter Schul- bzw. Berufsabschluss
 * Alter
 * Deutschkenntnisse
@@ -177,7 +161,6 @@ Auch die Dauer hängt sehr vom konkreten Lehrgang und einen
 Vorkenntnissen ab.
 Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 
-
 ## Studium
 
 ### Beispiele
@@ -185,39 +168,39 @@ Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 #### Universität
 
 * TU Wien
-    * [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/)
-    * [Medieninformatik und Visual Computing](https://informatics.tuwien.ac.at/bachelor/medieninformatik-und-visual-computing/)
-    * [Technische Informatik](https://informatics.tuwien.ac.at/bachelor/technische-informatik/)
-    * [Medizinische Informatik](https://informatics.tuwien.ac.at/bachelor/medizinische-informatik/)
-    * [Wirtschaftsinformatik](https://informatics.tuwien.ac.at/bachelor/wirtschaftsinformatik/)
+  * [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/)
+  * [Medieninformatik und Visual Computing](https://informatics.tuwien.ac.at/bachelor/medieninformatik-und-visual-computing/)
+  * [Technische Informatik](https://informatics.tuwien.ac.at/bachelor/technische-informatik/)
+  * [Medizinische Informatik](https://informatics.tuwien.ac.at/bachelor/medizinische-informatik/)
+  * [Wirtschaftsinformatik](https://informatics.tuwien.ac.at/bachelor/wirtschaftsinformatik/)
 * Universität Wien
-    * [Informatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/)
-    * [Wirtschaftsinformatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/)
+  * [Informatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/)
+  * [Wirtschaftsinformatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/)
 * TU Graz
-    * [Informatik](https://www.tugraz.at/studium/studienangebot/bachelorstudien/informatik#c340410)
+  * [Informatik](https://www.tugraz.at/studium/studienangebot/bachelorstudien/informatik#c340410)
 
 #### Fachhochschule
 
 * FH Campus Wien
-    * [Angewandte Elektronik](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/angewandte-elektronik-bachelor.html)
-    * [Computer Science and Digital Communications](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/computer-science-and-digital-communications-vollzeit.html)
-    * [Clinical Engineering](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/clinical-engineering-bachelor.html)
-    * [High Tech Manufacturing](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/high-tech-manufacturing-bachelor.html)
+  * [Angewandte Elektronik](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/angewandte-elektronik-bachelor.html)
+  * [Computer Science and Digital Communications](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/computer-science-and-digital-communications-vollzeit.html)
+  * [Clinical Engineering](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/clinical-engineering-bachelor.html)
+  * [High Tech Manufacturing](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/high-tech-manufacturing-bachelor.html)
 
 * FH Technikum Wien
-    * [Informatik](https://www.technikum-wien.at/studiengaenge/bachelor-informatik/)
-    * [Informations- und Kommunikationssysteme](https://www.technikum-wien.at/studiengaenge/bachelor-informations-und-kommunikationssysteme/)
-    * [Mechatronik & Robotik](https://www.technikum-wien.at/studiengaenge/bachelor-mechatronik-robotik/)
-    * Und viele weitere, [hier](https://www.technikum-wien.at/studium/) ist
+  * [Informatik](https://www.technikum-wien.at/studiengaenge/bachelor-informatik/)
+  * [Informations- und Kommunikationssysteme](https://www.technikum-wien.at/studiengaenge/bachelor-informations-und-kommunikationssysteme/)
+  * [Mechatronik & Robotik](https://www.technikum-wien.at/studiengaenge/bachelor-mechatronik-robotik/)
+  * Und viele weitere, [hier](https://www.technikum-wien.at/studium/) ist
       eine Übersicht.
 
 ### Voraussetzungen
 
 * Allgemeine Hochschulreife:
-    - Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden
+  * Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden
       Höheren Schule
-    - Berufsreifeprüfung
-    - Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn
+  * Berufsreifeprüfung
+  * Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn
       es völkerrechtlich vereinbart ist oder nostrifiziert wurde. Die
       Studiengangsleitung kann das Zeugnis auch im Einzelfall
       anerkennen.)
@@ -248,7 +231,6 @@ Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 * **Familienbeihilfe für Studenten**: Wenn du studierst hast du noch
   bis zum 24. Lebensjahr Anspruch auf Familienbeihilife (siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/)).
 
-
 ## Vergleich
 
 Trotz der Informationen oben ist es vielleicht nicht ganz leicht,
@@ -260,6 +242,7 @@ anhand derer die Entscheidungsfindung eventuell etwas leichter fällt:
 
 Dadurch, dass sich die verschiedenen Bildungswege
 in Dauer und Aufbau unterscheiden, gibt es auch Unterschiede, was die behandelten Inhalte betrifft:
+
 * **Lehre**: Da du die Lehre in einem Unternehmen absolvierst, bedeutet das auch, dass du zum Großteil Inhalte lernen wirst, die in diesem Unternehmen wichtig sind. Dadurch wirst du zu einem/r Expert/in in diesem einen spezifischen Bereich der IT, wirst aber womöglich nicht so viel über andere Bereiche der IT lernen.
 * **Schule**: In einer Schule ist das ganze schon ein bisschen anders, hier werden allgemeinere Konzepte gelehrt, die nicht unbedingt für ein spezifisches Unternehmen relevant sind (aber trotzdem praxisrelevant sind). Allerdings gibt es auch bei der HTL sehr spezifische Abstufungen (z.B. Netzwerktechnik, Softwareentwickler, Game Developer, etc.)
 * **Studium**: Auch wenn sich Universitäten und Fachhochschulen dahingehend ähneln, dass man in beiden Fällen für 3 (oder 5) Jahre komplett in die Informatik vertiefen kann, gibt es inhaltlich doch Unterschiede zwischen den beiden.
@@ -284,6 +267,7 @@ Schließlich sollte man bei der Entscheidung auch einige persönliche Faktoren, 
 berücksichtigen.
 
 #### Finanzieller Aspekt
+
 * **Lehre**: Was den finanziellen Aspekt anbelangt hat man bei der **Lehre** den Vorteil,
   dass man direkt ab Beginn der Lehre ein Gehalt bekommt.
 * **Schule**, **Studium**: Schule und Studium erstrecken sich über einen längeren Zeitraum.
