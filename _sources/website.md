@@ -1,3 +1,8 @@
+---
+marp: true
+theme: default
+---
+
 # Website
 
 Auch wenn die Entwicklung von Webseiten über den Kurs hinaus geht,
@@ -11,13 +16,23 @@ Wir befassen uns unter anderem mit diesen Fragen:
 - Wie erstellt man eine Website?
 - Wie ist die Website für den Kurs aufgebaut?
 
-Werkzeuge:
+## Werkzeuge 🔧🔨
 
-- Browser wie [Firefox](https://www.mozilla.org/en-US/firefox/new/) oder [Chrome](https://www.google.com/chrome/index.html)
-- Text Editor oder eine Entwicklungsumgebung wie [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
+Webseiten können - wie andere Programme auch - theoretisch in jedem beliebigen Texteditor geschrieben werden. Es ist aber sehr hilfreich, speziell dafür entwickelte Texteditoren zu verwenden.
+
+Es gibt eine Vielzahl von Systemen um die Entwicklung zu erleichtern,
+ein weit verbreitetes Werkzeug ist [Visual Studio Code (VSCode)](https://code.visualstudio.com/) oder [VS Codium](https://vscodium.com/) ([direct download](https://github.com/VSCodium/vscodium/releases/download/1.87.2.24072/VSCodium-x64-1.87.2.24072.msi)).
+
+VSCode gibt es auch [online](https://vscode.dev/).
+
+Außerdem enthalten viele Browser auch spezielle Werkzeuge für die Webentwicklung. Hier eine Auswahl:
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Chrome](https://www.google.com/chrome/index.html)
+- [Chromium](https://download-chromium.appspot.com/?platform=Win_x64)
 
 (web_tutorials_target)=
-Tutorials:
+## Tutorials:
 
 - [Mozilla's "Learn web development"](https://developer.mozilla.org/en-US/docs/Learn)
 - [Django Girls "Start your journey with programming"](https://djangogirls.org/en/resources/)
@@ -40,6 +55,7 @@ Hat dir das geholfen?
 Oft ist es gut, Dinge einfach auszuprobieren.
 
 Schau' dir folgende Seiten an:
+
 - https://markdown-editor.github.io/
   Schreibe auf der linken Seite und formatiere den
   Text mit Hilfe der Buttons. Was passiert?
@@ -48,14 +64,14 @@ Schau' dir folgende Seiten an:
 
 Diese Aufgabe bearbeitet jede für sich.
 
-PS: Siehe Kommentar in Nachricht auf GitHub.
 ```
 
 Um in VS Code ein Markdown Dokument zu erstellen und zu bearbeiten mache folgendes:
-* Erstelle eine neue Datei (oder öffne eine existierende)
-* Speichere die Datei als Markdown Datei mit der Dateiendung `.md` ab
-* Editiere die Datei wie eine gewöhnlich Textdatei, verwende dabei [Markdown-Syntax](https://commonmark.org/help/) wie beispielsweise `#` für Überschriften oder `*` für Aufzählungen
-* Betrachte die Vorschau für das Dokument in dem du `Strg+Shift+P` drückst und dann
+
+- Erstelle eine neue Datei (oder öffne eine existierende)
+- Speichere die Datei als Markdown Datei mit der Dateiendung `.md` ab
+- Editiere die Datei wie eine gewöhnlich Textdatei, verwende dabei [Markdown-Syntax](https://commonmark.org/help/) wie beispielsweise `#` für Überschriften oder `*` für Aufzählungen
+- Betrachte die Vorschau für das Dokument in dem du `Strg+Shift+P` drückst und dann
   im Dialog `Markdown: Open Preview to the Side` auswählst
 
 Den Inhalt einer Markdown Datei können wir eins zu eins als Inhalt für unsere Homepage
@@ -94,9 +110,8 @@ Wenn das geklappt hat, hast du ein Mail von GitHub bekommen.
 Die Kursseite kann man sich als Ordner mit vielen Dateien vorstellen.
 Für jede Seite auf unserer Website gibt es auch eine Datei in diesem Ordner.
 
-Wenn du **https://github.com/ec-mentors/it-ist-das-was-fuer-mich** öffnest,
+Wenn du **[https://github.com/ec-mentors/it-ist-das-was-fuer-mich]** öffnest,
 kannst du einen Blick hinter die Kulissen werfen.
-
 
 ```{exercise} Update der persönlichen Kursseite
 :label: exercise-update-personal-page
@@ -122,7 +137,6 @@ bauen kann.
 Unsere Kursseite ist nur eine Möglichkeit und wir wollen euch die Gelegenheit
 geben, hier einen Blick hinein zu werfen.
 
-
 ```{exercise} Persönliche Kursseite als Mini-Lebenslauf
 :label: exercise-update-personal-page-properly
 
@@ -144,19 +158,6 @@ Wenn du Hilft brauchst, wende dich an eine Kollegin.
 Dateien, nur in eurer eigenen.*
 ```
 
-
-## Entwicklungswerkzeuge
-
-Sobald man beginnt lokal (auf dem eigenen Computer) Webseiten zu entwickeln,
-d.h. zumindest HTML-Dateien zu editieren, ist es sehr hilfreich,
-dazu geeignete Texteditoren zu verwenden.
-
-Es gibt eine Vielzahl von Systemen um die Entwicklung zu erleichtern,
-ein weit verbreitetes Werkzeug ist [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
-
-VSCode gibt es auch [online](https://vscode.dev/).
-
-
 ## Minimales Beispiel für HTML und CSS
 
 Es ist oft gut, möglichst klein zu beginnen.
@@ -164,13 +165,13 @@ Es ist oft gut, möglichst klein zu beginnen.
 Zwei sehr minimal gehaltene Beispiele für eine HTML und eine CSS Datei
 findest du hier.
 
-**mini_index.html**
+- **mini_index.html**
 
 ```{literalinclude} ./_static/mini_index.html
 :language: html
 ```
 
-**mini_style.css**
+- **mini_style.css**
 
 ```{literalinclude} ./_static/mini_style.css
 :language: css
