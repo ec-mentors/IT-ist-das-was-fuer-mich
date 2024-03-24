@@ -6,6 +6,7 @@
 
 course/index
 mode
+participants/index
 lego/index
 microbit/index
 guests/guests
@@ -18,12 +19,8 @@ website
 contact
 ```
 <!--
-participants/index
-
 raspberrypi
 projects/projects
-
-guests/guests
 -->
 
-**🚧 Diese Seite wird im Laufe des Kurses kontinuierlich aktualisiert. 👷‍♀️**
+🚧 **Diese Seite wird im Laufe des Kurses kontinuierlich aktualisiert.** 👷‍♀️
