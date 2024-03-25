@@ -3,8 +3,9 @@
 - 23 Jahre
 - Moga (Punjab), Indien
 - 2 Hauskatzen & 2 Zwergwidder
-- Hobbies: mit dem Auto reisen, Serien schauen, Musik hören
-
+- Hobbies: mit dem Auto reisen, Serien schauen, Musik hören, kochen, lange Spaziergänge/ wandern
+- 
+  
 *blablablabla*
 
 **blablablabla**
