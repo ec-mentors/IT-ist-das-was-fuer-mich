@@ -1,9 +1,9 @@
 # Mariam Barakzai 
 ## Weiterbildung/Beruferfahrung
 >
-09-2023-           laufend Wien West HTL Abendschule,1160 Wien
+. 09-2023-           laufend Wien West HTL Abendschule,1160 Wien
 >
-05/2023 –          futurefactor Berufsorientierung, 1110 Wien 
+. 05/2023 –          futurefactor Berufsorientierung, 1110 Wien 
 >
 13/2023 -          Deutsch-Test für Österreich (DTÖ), Niveau B1, des Österreichischen Integrationsfonds
 >
@@ -37,7 +37,7 @@ EDV Adobe Photoshop, Adobe Premiere Pro, Adobe
 >
 After Effects, MS-Office, MS-Excel
 >
-#Persönliche Fähigkeiten/Hobbys und Interessen 
+# Persönliche Fähigkeiten/Hobbys und Interessen 
 >
 Zeitmanagement, Strukturierte Arbeiten, Sprachbegabung, Teamfähigkeit 
 >
