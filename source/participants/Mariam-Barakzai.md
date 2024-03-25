@@ -44,4 +44,4 @@ Zeitmanagement, Strukturierte Arbeiten, Sprachbegabung, Teamfähigkeit
 Bücher lesen, Schreiben und Tagebuch führen, Fotografie 
 >
 # DANKESCHÖN 
-[idk](https://i.pinimg.com/564x/c7/b7/3d/c7b73d7c7cc62cf9b47c3dda33296618.jpg)
+[mood](https://i.pinimg.com/564x/c7/b7/3d/c7b73d7c7cc62cf9b47c3dda33296618.jpg)
