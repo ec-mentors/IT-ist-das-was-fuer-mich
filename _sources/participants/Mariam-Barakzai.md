@@ -1,8 +1,6 @@
 # Mariam Barakzai
+забони русии ман он қадар хуб нест, аммо ман метавонам тоҷикӣ ҳарф занам, зеро модарам аз он ҷост
 
-Hello, this is just a text 
-
-## Hi 
 
 # Ich will nach Hause gehen
 
