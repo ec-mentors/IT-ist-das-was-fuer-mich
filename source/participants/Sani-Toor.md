@@ -4,7 +4,18 @@
 - Moga (Punjab), Indien
 - 2 Hauskatzen & 2 Zwergwidder
 - Hobbies: mit dem Auto reisen, Serien schauen, Musik hören, kochen, lange Spaziergänge/ wandern
-- 
+- Sprachen: Deutsch, Englisch, Punjabi, Hindi, Urdu
+## Schulausbildung:
+- BMC Brooksby Melton College, England
+- Berufsschule für Bürokaufleute, Wien
+- HAK, Wien
+## Berufserfahrung:
+- Sales Assisten Manager, Flughafen Wien
+- KFZ-Technikerin, Wien
+- Securitas, Wien
+- Verkaufsaushilfe, Wien
+- Callcenteragent, Wien
+- ÜBA zur Bürokauffrau, Wien
   
 *blablablabla*
 
