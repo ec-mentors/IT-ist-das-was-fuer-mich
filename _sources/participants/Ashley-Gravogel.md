@@ -1,11 +1,23 @@
 # Ashley Gravogel
 
-test
+test  
+normal text
+
+normal text with empty line
 
 ## Hallo
 
-///**test**///
+*one*  
+**two**  
+**_two+underline_**  
+***three***  
 
 *paragraph*  
--line
--line2
+- line
+- line2
+
+> block  
+> blockline
+>> block2
+>>
+>> [github.com](HTTPS://www.youtube.com)
