@@ -1,2 +1,1 @@
 # Eda Demirel
-hi hallo 

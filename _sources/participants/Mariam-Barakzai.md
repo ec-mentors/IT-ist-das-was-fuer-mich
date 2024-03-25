@@ -7,18 +7,3 @@
 ## I have to finish a book in a week! KEIN BUCK tb 
 
 ### Aber Egal 
-
-Mark down:
-eine: Überschreift 
->
-2: Untertitel 
-
-**FetterText**
->
-*KursivText*
->
-***FetterundKusiv***
-
-[Link Text] (Adresse)
-
-Unsere [Website](https://ec-mentors.github.io/IT-ist-das-was-fuer-mich/)
