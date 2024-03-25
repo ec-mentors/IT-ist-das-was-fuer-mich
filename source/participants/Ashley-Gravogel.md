@@ -11,7 +11,7 @@ normal text with empty line
 
 - I made a pixel art
 
-![cute pixelart I made](https://github.com/Crow66679/Game/blob/main/Assets/Characters/Ash.png?raw=true)
+![cute pixelart I made](https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/blob/main/source/participants/Ashley.png?raw=true)
 
 - most other art I made is painting miniature figures like DnD Characters but I don't have images of those rn
 - I've been programming for almost 8 years now and even started working on my own game tho I'm only making very slow progress there
