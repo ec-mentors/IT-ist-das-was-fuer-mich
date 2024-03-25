@@ -36,3 +36,9 @@ Programmiersprachen visual Basic, HTML, Java, JavaScript, C++
 EDV Adobe Photoshop, Adobe Premiere Pro, Adobe 
 >
 After Effects, MS-Office, MS-Excel
+>
+#Persönliche Fähigkeiten/Hobbys und Interessen 
+>
+Zeitmanagement, Strukturierte Arbeiten, Sprachbegabung, Teamfähigkeit 
+>
+Bücher lesen, Schreiben und Tagebuch führen, Fotografie 
