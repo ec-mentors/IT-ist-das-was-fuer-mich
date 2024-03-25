@@ -2,7 +2,7 @@
 ## Über mich:
 - 23 Jahre
 - Moga (Punjab), Indien
-- 2 Hauskatzen & 2 Zwergwidder
+- 2 Hauskatzen & 2 Zwergwidder (Kaninchen)
 - Hobbies: mit dem Auto reisen, Serien schauen, Musik hören, kochen, lange Spaziergänge/ wandern
 - Sprachen: Deutsch, Englisch, Punjabi, Hindi, Urdu
 ## Schulausbildung:
