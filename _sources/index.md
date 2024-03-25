@@ -9,12 +9,12 @@ mode
 participants/index
 lego/index
 microbit/index
+website
 guests/guests
 
 learning
 orientation
 education
-website
 
 contact
 ```
