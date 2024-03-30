@@ -2,10 +2,8 @@
 
 Der Micro Bit ist ein vielseitig programmierbarer Einplatinencomputer.
 
-<img src="./iidwfm-presentationen-24.jpg" alt="">
-
-
 Wichtige Links:
+
 - [BBC micro:bit Webseite](https://microbit.org/)
   - [Let's code](https://microbit.org/code/) für Links zu Editoren und dem Classroom
 - [Microsoft Make Code für micro:bit](https://makecode.microbit.org/)
@@ -18,7 +16,6 @@ beschreiben.
 
 Für die nun folgenden Übungen, könnt ihr ein Poster gestalten, die Antworten
 auf einem Blatt Papier sammeln oder in einem Google Doc eintragen.
-
 
 ```{exercise} Micro Bit Kennzahlen
 :label: exercise-micro-bit-numbers
@@ -33,7 +30,6 @@ Recherchiere und versuche folgende Fragen zu beantworten:
 
 Wofür sind diese drei Größen wichtig?
 ```
-
 
 ```{exercise} Micro Bit Schnittstellen, Sensoren, ...
 :label: exercise-micro-bit-interface-and-sensors
@@ -54,11 +50,11 @@ Beantworte dabei auch die folgenden Fragen:
 Wenn der Microbit tun soll, was wir wollen, müssen wir ein Programm
 schreiben, das genaue Anweisungen gibt.
 Überblicksmäßig muss folgende passieren:
+
 1. Programmieren: Wir erstellen ein Programm
 1. Kompilieren: Das Programm wird in eine Form gebracht die der Prozessor versteht
 1. Kopieren: Wir übertragen das kompilierte Programm auf den Microbit
 1. Ausführen: Der Microbit führt das Programm aus
-
 
 ## Erste kleine Programme 🐣
 
@@ -179,8 +175,6 @@ Wir haben aus den bestehenden Grundbausteinen etwas neues geschaffen!
 Wir werden nun die Ideen und Konzepte der vorherigen Übungen weiter aufgreifen und
 noch die Möglichkeit von User Input durch Buttons berücksichtigen.
 
-
-
 ### Mehr Sensoren 🤹
 
 Bis jetzt haben wir nur einen kleinen Ausschnitt der Funktionen
@@ -221,7 +215,6 @@ untereinander Informationen austauschen können.
 Nachdem das ein wenig verwirrend sein kann, wollen wir uns das
 in Ruhe ansehen.
 
-
 ```{exercise} Radio
 :label: exercise-basic-radio
 
@@ -244,12 +237,11 @@ wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe au
 % :class: dropdown
 %
 % ![Share button events in group](share_button_events_in_group.png)
-% ```
+%```
 %
 % Datenaustausch zwischen zwei Microbits:
-% * ![Datenaustausch](Datenaustausch.png)
-% * ![Teste Datenaustausch](TesteDatenaustausch.png)
-
+% *![Datenaustausch](Datenaustausch.png)
+%* ![Teste Datenaustausch](TesteDatenaustausch.png)
 
 ## Eine große Aufgabe 🧗
 
@@ -257,10 +249,10 @@ Wir werden uns nun länger mit ein und derselben Aufgabe befassen.
 Konkret wollen wir das Spiel "Schere, Stein, Papier" mit dem Microbit
 umsetzen.
 Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stellen:
-* Was kann ich tun, wenn ich nicht mehr weiter weiß?
-* Wie gehe ich damit um, wenn das Lösen einer Aufgabe länger dauert?
-* Welche Problemlösungsstrategien gibt es?
 
+- Was kann ich tun, wenn ich nicht mehr weiter weiß?
+- Wie gehe ich damit um, wenn das Lösen einer Aufgabe länger dauert?
+- Welche Problemlösungsstrategien gibt es?
 
 ### Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓
 
@@ -271,13 +263,13 @@ Es gibt einen [Wikipedia](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier) d
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
 mit dem Microbit umsetzen.
 Das heißt:
+
 - Wir verbinden zwei Microbits
 - Wir schütteln drei Mal
 - Jeder Microbit zeigt ein zufälliges Symbol an
 - Der eine gewinnt, der andere verliert
 
 Wie können wir diese Aufgabe angehen?
-
 
 ```{exercise} Spiel kennen lernen
 :label: exercise-rock-paper-scissor-part-1-reading
@@ -305,7 +297,6 @@ Fragen:
 - Hast du auch versucht Skizzen zu machen?
 ```
 
-
 ```{exercise} Aufgabe analysieren
 :label: exercise-rock-paper-scissor-1-description
 
@@ -324,14 +315,13 @@ Wir haben verschiedene Strategien besprochen um Probleme
 zu lösen:
 - Kannst du das Problem vereinfachen? Wie?
 - Kannst du das Problem in Teilprobleme zerlegen? Welche?
-- Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
+- Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuch es.
 - Kannst du jemandem die Aufgabe im Detail beschreiben?
   Suche dir eine Partnerin und probiere es.
 
 Wenn du dir nicht sicher bist, Spiele das Spiel noch
 einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
 ```
-
 
 ```{exercise} Aufgabe zeichnen
 :label: exercise-rock-paper-scissors-1-diagram
@@ -346,7 +336,7 @@ Erstelle eine Zeichnung aus der man ablesen kann:
 - Wann passiert etwas? Zeitlicher Ablauf.
 - Warum passiert etwas? Logischer Ablauf.
 - Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
-  Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?s", ...)
+  Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)
 
 Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
 andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
@@ -356,7 +346,6 @@ Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
 können wir probieren sie Schritt für Schritt zu lösen.
 Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
 Das ist okay.
-
 
 ```{exercise} Teilaufgaben umsetzen
 :label: exercise-rock-paper-scissor-2-implementation
@@ -380,7 +369,6 @@ Für jedes Teilproblem oder jede Vereinfachung:
    das vorstellst.
 ```
 
-
 ```{exercise} Regeln anwenden
 :label: exercise-rock-paper-scissor-2-rules
 
@@ -401,7 +389,6 @@ Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
 
 % ![Regeln für Schere-Stein-Papier](Regeln.png)
 
-
 ```{exercise} Schere-Stein-Papier
 :label: exercise-rock-paper-scissors-all-in-one
 
@@ -411,11 +398,12 @@ Teile zu einem Ganzen zusammen zu fügen.
 Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
 
 Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
+
 * Regelmäßig abwechseln und
 * aussprechen was ihr tun wollt! 😃
 ```
 
-## Noch eine große Aufgabe: Barkeeper Training 🍸⏱️ 
+## Noch eine große Aufgabe: Barkeeper Training 🍸⏱️
 
 Barkeeper haben keine Zeit, alle Getränke abzumessen, wenn sie Cocktails mixen. Sie arbeiten mit speziellen Ausgüssen auf den Flaschen, durch die pro Sekunde eine bestimmte Menge Flüssigkeit (z.B. 2cl/Sekunde) austritt.
 
@@ -423,35 +411,97 @@ Wenn ein Rezept also z.B. 2cl Vodka und 4cl Saft verlangt, schütten sie 1 Sekun
 
 Wir programmieren ein Spiel, um das zu üben.
 
-```{exercise} Trainingsapp für Barkeeper: Single Player
-:label: exercise-microbit-barkeeper-basic
-Das Spiel funktioniert so:
-1. Das Spiel startet, wenn du Button A drückst.
-1. Dein Microbit zeigt dir eine zufällige Zahl zwischen 1 und 9.
-1. Du startest das Spiel, indem du das Microbit-Logo (Touch-Sensor) drückst.
-1. Sobald du den Sensor berührst, verschwindet die Zahl wieder.
-1. Wenn du glaubst, dass die angegebene Zahl an Sekunden verstrichen ist, lässt du das Logo wieder los.
-1. Dein Microbit zeigt dir jetzt an, wie lange du das Logo tatsächlich gedrückt hast (runde den Wert auf eine ganze Zahl!).
-1. Wenn du genau richtig warst, wird dir danach ein Herz angezeigt.
-1. Wenn du zu lange gedrückt hast, wird dir ein L (für lang).
-1. Wenn du nicht lang genug gedrückt hast, wird dir ein K (für kurz) angezeigt.
+```{exercise} Trainingsapp für Barkeeper: Problem analysieren
+:label: exercise-microbit-barkeeper-1-analysis
 
-Implementiere es zuerst so, dass du alleine spielen kannst.
+Das Spiel muss verschiedene Teile enthalten:
+
+* es muss eine Zeitvorgabe geben
+* als Spielerin muss ich meine Schätzung an den Microbit kommunizieren
+* es muss verglichen werden, ob die Schätzung mit der Vorgabe übereinstimmt
+* Erfolg oder Misserfolg müssen angezeigt werden
+* es müssen Punkte vergeben werden
+
+Es gibt verschiedene Möglichkeiten dafür, wie das genau passieren soll:
+
+* Soll es ein Single-Player-Spiel sein, oder ein Duell?
+* Woher kommt die Zeitvorgabe: vom Microbit, von der Spielerin selber, oder von der Gegnerin?
+* Wie funktioniert die Kommunikation von Spielerin zu Microbit?
+* Was wird angezeigt?
+* Wie viele Versuche hat man?
+* Wie werden Punkte vergeben? Wie viele?
+* Gibt es noch andere Regeln? Vielleicht weitere Level, die schwieriger sind?
+
+Überleg dir, wie du dein Spiel aufbauen möchtest, und in welcher Reihenfolge die einzelnen Schritte passieren sollen.
+
 ```
 
-```{exercise} Trainingsapp für Barkeeper: 10 Gewinnt!
-:label: exercise-microbit-barkeeper-count-points
-1. Punkte zählen: Du startest mit 5 Lebenspunkten. Immer wenn du richtig liegst, bekommst du einen Lebenspunkt dazu, wenn du zu lang oder zu kurz gedrückt hast, verlierst du einen. Das Spiel endet, wenn du 0 Punkte hast (du hast verloren), oder wenn du 10 Punkte erreicht hast (du hast gewonnen!). Gib eine passende Meldung oder ein Symbol aus.
+```{exercise} Trainingsapp für Barkeeper: Spiel beschreiben
+:label: exercise-microbit-barkeeper-1-description
+
+Du hast jetzt eine Idee, wie das Spiel ablaufen soll. Hast du an alle Teile gedacht? Such dir eine Partnerin, und beschreibt euch gegenseitig eure Spielidee. Was verstehst du? Welche Fragen hast du noch? Sind eure Ideen ähnlich? Worin unterscheiden sie sich? Könnt ihr einen Durchgang simulieren, d.h. so tun, als würdet ihr es spielen, und dabei beschreiben, was der Microbit wann anzeigen soll?
+
+Vielleicht merkst du dabei, dass noch ein paar Details unklar sind. Das ist okay! Du kannst jetzt auch noch diese Lücken füllen.
+
+Versuch dabei auch, das Problem zu strukturieren: Aus welchen Teilen besteht es?
+Kannst du es vereinfachen? Wie?
+
 ```
 
-```{exercise} Trainingsapp für Barkeeper: Multiplayer
-:label: exercise-microbit-barkeeper-multiplayer
-1. Multiplayer: Wenn du Button A drückst, läuft das Spiel wie voher. Wenn du aber B drückst, wird die Zufallszahl an deine Kollegin geschickt, und sie muss das Logo so lange gedrückt halten.
+```{exercise} Trainingsapp für Barkeeper: Aufgabe zeichnen
+:label: exercise-microbit-barkeeper-1-diagram
+
+Ihr habt euch schon gegenseitig das Spiel erklärt, und hoffentlich alle offenen Fragen geklärt. An dieser Stelle ist es oft hilfreich, den Ablauf des Spiels in ein Bild zu fassen.
+Unser Ziel ist dabei weiterhin, den Spielablauf zu beschreiben und einzelne
+Teile der Aufgabe zu erkennen.
+
+Erstell eine Zeichnung aus der man ablesen kann:
+- Wann passiert etwas? Zeitlicher Ablauf.
+- Warum passiert etwas? Logischer Ablauf.
+- Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
+  Ablauf wichtig sind (bspw. "drücken", "zählen", "anzeigen", ...)?
+
+Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
+andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
+
+Es kann gut sein, dass du wieder auf Details stößt, die du davor nicht bedacht hast. Du kannst sie jetzt definieren.
+
 ```
 
-```{exercise} Trainingsapp für Barkeeper: Multiplayer Tournier
-:label: exercise-microbit-barkeeper-multiplayer-points
-1. Multiplayer Contest: Ihr spielt abwechselnde Runden. Wenn du richtig geschätzt hast, bekommst du einen Punkt, die Kollegin verliert einen (und umgekehrt). Wenn ihr beide richtig wart, bekommt ihr beide einen Punkt, wenn ihr beide daneben wart, verliert ihr beide einen Punkt.
-Das Spiel endet, wenn eine Person 10 Punkte erreicht hat, oder eine Person 0 Punkte hat.
+Wenn du eine klare Vorstellung von deinem Spiel hast, kannst du beginnen, es zu implementieren.
+
+```{exercise} Trainingsapp für Barkeeper: Implementierung
+:label: exercise-microbit-barkeeper-implementation
+
+Beginn mit einer vereinfachten Version des Spiels. 
+Mit welcher Teilaufgabe davon möchtest du beginnen? Geh weiterhin Schritt für Schritt vor, und kontrollier immer wieder, ob sie auch funktionieren.
+
+Für jedes Teilproblem oder jede Vereinfachung:
+1. Worin besteht die Aufgabe?
+1. Welche Blöcke brauchst du?
+1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
+   bei jeder Änderung, ob alles so funktioniert, wie du dir
+   das vorstellst.
+
+```
+
+```{exercise} Trainingsapp für Barkeeper: Erweiterung
+:label: exercise-microbit-barkeeper-extension
+
+Welche Features könntest du noch hinzufügen? Gibt es weitere Level, die immer schwieriger werden? Kannst du weitere Möglichkeiten des Microbit nutzen? Lass deiner Phantasie freien Lauf! Geh für jedes Feature wieder die obigen Schritte durch: 
+
+Beschreib und zeichne:
+* was genau passieren soll
+* in welcher Reihenfolge es passieren soll
+* wo im Spiel dieses Feature hineinpasst
+
+Implementiere das Feature wieder Schritt für Schritt, überleg für jedes Teilproblem oder jede Vereinfachung:
+1. Worin besteht die Aufgabe?
+1. Welche Blöcke brauchst du?
+1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
+   bei jeder Änderung, ob alles so funktioniert, wie du dir
+   das vorstellst.
+
+Wenn das Feature funktioniert, kannst du es in dein bestehendes Programm einfügen. Vergiss auch hier nicht, alles ausgiebig zu testen!
 
 ```

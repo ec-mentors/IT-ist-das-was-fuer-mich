@@ -53,11 +53,11 @@
     <script src="../../_static/translations.js?v=70a09b52"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'course/day_11_to_15_microbit_intro/index';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'course/day_11_to_15_microbit/index';</script>
     <link rel="icon" href="../../_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="../../genindex.html" />
     <link rel="search" title="Suche" href="../../search.html" />
-    <link rel="next" title="Zusammenarbeit" href="../../mode.html" />
+    <link rel="next" title="Woche 4: Web 🗺️ 🕸️ 💻" href="../day_16_to_19_web/index.html" />
     <link rel="prev" title="Tag 10: Peer Learning und Gast Aymara" href="../day_10_peer_learning/index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="de"/>
@@ -178,6 +178,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../day_09_peer_learning/index.html">Tag 09: Peer Learning</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../day_10_peer_learning/index.html">Tag 10: Peer Learning und Gast Aymara</a></li>
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Tag 11 bis 15: BBC micro:bit Intro</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../day_16_to_19_web/index.html">Woche 4: Web 🗺️ 🕸️ 💻</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../mode.html">Zusammenarbeit</a></li>
@@ -277,7 +278,7 @@
       
       
       
-      <li><a href="../../_sources/course/day_11_to_15_microbit_intro/index.md" target="_blank"
+      <li><a href="../../_sources/course/day_11_to_15_microbit/index.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Quelldatei herunterladen"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -348,7 +349,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -364,6 +367,15 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Inhalt </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schere-stein-papier">Schere, Stein, Papier</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#barkeeper-training">Barkeeper Training</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -383,7 +395,6 @@ document.write(`
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-numbers"><span class="std std-numref">Exercise 23</span></a></p></li>
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-interface-and-sensors"><span class="std std-numref">Exercise 24</span></a></p></li>
 </ol>
-<p><a class="reference download internal" download="" href="../../_downloads/43ee6aaaab83775d3687b9a01964d57a/slides.pdf"><code class="xref download docutils literal notranslate"><span class="pre">🎬</span> <span class="pre">Slides</span></code></a></p>
 <p>Wir machen folgende Übungen:</p>
 <ol class="arabic simple">
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-chrome-webusb"><span class="std std-numref">Exercise 27</span></a></p></li>
@@ -405,13 +416,34 @@ genauer ansehen:</p>
 <li><p>Zerteilen</p></li>
 <li><p>…</p></li>
 </ul>
-<p>Wir machen folgende Übungen</p>
+<p>Hier sind etwas komplexere Aufgaben:</p>
 <ol class="arabic simple">
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-retrospective"><span class="std std-numref">Exercise 28</span></a></p></li>
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-dice"><span class="std std-numref">Exercise 29</span></a></p></li>
 <li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-micro-bit-emoji-dice"><span class="std std-numref">Exercise 30</span></a></p></li>
-<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissor-part-1-reading"><span class="std std-numref">Exercise 33</span></a></p></li>
 </ol>
+<p>Die folgenden beiden Programme sind in mehrere Teilschritte gegliedert. Das entspricht dem Vorgehen bei der Entwicklung von größeren Software-Projekten.</p>
+<section id="schere-stein-papier">
+<h2>Schere, Stein, Papier<a class="headerlink" href="#schere-stein-papier" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissor-part-1-reading"><span class="std std-numref">Exercise 33</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissor-1-description"><span class="std std-numref">Exercise 34</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissors-1-diagram"><span class="std std-numref">Exercise 35</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissor-2-implementation"><span class="std std-numref">Exercise 36</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissor-2-rules"><span class="std std-numref">Exercise 37</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-rock-paper-scissors-all-in-one"><span class="std std-numref">Exercise 38</span></a></p></li>
+</ol>
+</section>
+<section id="barkeeper-training">
+<h2>Barkeeper Training<a class="headerlink" href="#barkeeper-training" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-microbit-barkeeper-1-analysis"><span class="std std-numref">Exercise 39</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-microbit-barkeeper-1-description"><span class="std std-numref">Exercise 40</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-microbit-barkeeper-1-diagram"><span class="std std-numref">Exercise 41</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-microbit-barkeeper-implementation"><span class="std std-numref">Exercise 42</span></a></p></li>
+<li><p><a class="reference internal" href="../../microbit/tutorial.html#exercise-microbit-barkeeper-extension"><span class="std std-numref">Exercise 43</span></a></p></li>
+</ol>
+</section>
 </section>
 
 
@@ -435,11 +467,11 @@ genauer ansehen:</p>
       </div>
     </a>
     <a class="right-next"
-       href="../../mode.html"
+       href="../day_16_to_19_web/index.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">weiter</p>
-        <p class="prev-next-title">Zusammenarbeit</p>
+        <p class="prev-next-title">Woche 4: Web 🗺️ 🕸️ 💻</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -450,7 +482,21 @@ genauer ansehen:</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Inhalt
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schere-stein-papier">Schere, Stein, Papier</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#barkeeper-training">Barkeeper Training</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

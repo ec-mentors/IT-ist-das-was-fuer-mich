@@ -177,7 +177,8 @@
 <li class="toctree-l2"><a class="reference internal" href="../course/day_08_lego_robots_3/index.html">Tag 08: Lego Rboter EV3</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_09_peer_learning/index.html">Tag 09: Peer Learning</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../course/day_10_peer_learning/index.html">Tag 10: Peer Learning und Gast Aymara</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../course/day_11_to_15_microbit_intro/index.html">Tag 11 bis 15: BBC micro:bit Intro</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../course/day_11_to_15_microbit/index.html">Tag 11 bis 15: BBC micro:bit Intro</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../course/day_16_to_19_web/index.html">Woche 4: Web 🗺️ 🕸️ 💻</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../mode.html">Zusammenarbeit</a></li>
@@ -401,7 +402,6 @@ document.write(`
   <section id="tutorial">
 <h1>Tutorial<a class="headerlink" href="#tutorial" title="Link to this heading">#</a></h1>
 <p>Der Micro Bit ist ein vielseitig programmierbarer Einplatinencomputer.</p>
-<img alt="" src="../_images/iidwfm-presentationen-24.jpg" />
 <p>Wichtige Links:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://microbit.org/">BBC micro:bit Webseite</a></p>
@@ -719,7 +719,7 @@ zu lösen:</p>
 <ul class="simple">
 <li><p>Kannst du das Problem vereinfachen? Wie?</p></li>
 <li><p>Kannst du das Problem in Teilprobleme zerlegen? Welche?</p></li>
-<li><p>Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.</p></li>
+<li><p>Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuch es.</p></li>
 <li><p>Kannst du jemandem die Aufgabe im Detail beschreiben?
 Suche dir eine Partnerin und probiere es.</p></li>
 </ul>
@@ -741,7 +741,7 @@ Teile der Aufgabe zu erkennen.</p>
 <li><p>Wann passiert etwas? Zeitlicher Ablauf.</p></li>
 <li><p>Warum passiert etwas? Logischer Ablauf.</p></li>
 <li><p>Gibt es wichtige Ereignisse, Schritte oder „Dinge“ die für den
-Ablauf wichtig sind (bspw. „schütteln“, „3 Mal“, …)?s“, …)</p></li>
+Ablauf wichtig sind (bspw. „schütteln“, „3 Mal“, …)</p></li>
 </ul>
 <p>Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
 andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.</p>
@@ -812,51 +812,97 @@ Teile zu einem Ganzen zusammen zu fügen.</p>
 <p>Barkeeper haben keine Zeit, alle Getränke abzumessen, wenn sie Cocktails mixen. Sie arbeiten mit speziellen Ausgüssen auf den Flaschen, durch die pro Sekunde eine bestimmte Menge Flüssigkeit (z.B. 2cl/Sekunde) austritt.</p>
 <p>Wenn ein Rezept also z.B. 2cl Vodka und 4cl Saft verlangt, schütten sie 1 Sekunde lang aus der Vodka-Flasche, und 2 Sekunden lang aus der Saftflasche. Dafür müssen sie sehr genau die Zeit schätzen können.</p>
 <p>Wir programmieren ein Spiel, um das zu üben.</p>
-<div class="exercise admonition" id="exercise-microbit-barkeeper-basic">
+<div class="exercise admonition" id="exercise-microbit-barkeeper-1-analysis">
 
-<p class="admonition-title"><span class="caption-number">Exercise 39 </span> (Trainingsapp für Barkeeper: Single Player)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 39 </span> (Trainingsapp für Barkeeper: Problem analysieren)</p>
 <section id="exercise-content">
-<p>Das Spiel funktioniert so:</p>
-<ol class="arabic simple">
-<li><p>Das Spiel startet, wenn du Button A drückst.</p></li>
-<li><p>Dein Microbit zeigt dir eine zufällige Zahl zwischen 1 und 9.</p></li>
-<li><p>Du startest das Spiel, indem du das Microbit-Logo (Touch-Sensor) drückst.</p></li>
-<li><p>Sobald du den Sensor berührst, verschwindet die Zahl wieder.</p></li>
-<li><p>Wenn du glaubst, dass die angegebene Zahl an Sekunden verstrichen ist, lässt du das Logo wieder los.</p></li>
-<li><p>Dein Microbit zeigt dir jetzt an, wie lange du das Logo tatsächlich gedrückt hast (runde den Wert auf eine ganze Zahl!).</p></li>
-<li><p>Wenn du genau richtig warst, wird dir danach ein Herz angezeigt.</p></li>
-<li><p>Wenn du zu lange gedrückt hast, wird dir ein L (für lang).</p></li>
-<li><p>Wenn du nicht lang genug gedrückt hast, wird dir ein K (für kurz) angezeigt.</p></li>
-</ol>
-<p>Implementiere es zuerst so, dass du alleine spielen kannst.</p>
+<p>Das Spiel muss verschiedene Teile enthalten:</p>
+<ul class="simple">
+<li><p>es muss eine Zeitvorgabe geben</p></li>
+<li><p>als Spielerin muss ich meine Schätzung an den Microbit kommunizieren</p></li>
+<li><p>es muss verglichen werden, ob die Schätzung mit der Vorgabe übereinstimmt</p></li>
+<li><p>Erfolg oder Misserfolg müssen angezeigt werden</p></li>
+<li><p>es müssen Punkte vergeben werden</p></li>
+</ul>
+<p>Es gibt verschiedene Möglichkeiten dafür, wie das genau passieren soll:</p>
+<ul class="simple">
+<li><p>Soll es ein Single-Player-Spiel sein, oder ein Duell?</p></li>
+<li><p>Woher kommt die Zeitvorgabe: vom Microbit, von der Spielerin selber, oder von der Gegnerin?</p></li>
+<li><p>Wie funktioniert die Kommunikation von Spielerin zu Microbit?</p></li>
+<li><p>Was wird angezeigt?</p></li>
+<li><p>Wie viele Versuche hat man?</p></li>
+<li><p>Wie werden Punkte vergeben? Wie viele?</p></li>
+<li><p>Gibt es noch andere Regeln? Vielleicht weitere Level, die schwieriger sind?</p></li>
+</ul>
+<p>Überleg dir, wie du dein Spiel aufbauen möchtest, und in welcher Reihenfolge die einzelnen Schritte passieren sollen.</p>
 </section>
 </div>
-<div class="exercise admonition" id="exercise-microbit-barkeeper-count-points">
+<div class="exercise admonition" id="exercise-microbit-barkeeper-1-description">
 
-<p class="admonition-title"><span class="caption-number">Exercise 40 </span> (Trainingsapp für Barkeeper: 10 Gewinnt!)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 40 </span> (Trainingsapp für Barkeeper: Spiel beschreiben)</p>
 <section id="exercise-content">
+<p>Du hast jetzt eine Idee, wie das Spiel ablaufen soll. Hast du an alle Teile gedacht? Such dir eine Partnerin, und beschreibt euch gegenseitig eure Spielidee. Was verstehst du? Welche Fragen hast du noch? Sind eure Ideen ähnlich? Worin unterscheiden sie sich? Könnt ihr einen Durchgang simulieren, d.h. so tun, als würdet ihr es spielen, und dabei beschreiben, was der Microbit wann anzeigen soll?</p>
+<p>Vielleicht merkst du dabei, dass noch ein paar Details unklar sind. Das ist okay! Du kannst jetzt auch noch diese Lücken füllen.</p>
+<p>Versuch dabei auch, das Problem zu strukturieren: Aus welchen Teilen besteht es?
+Kannst du es vereinfachen? Wie?</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-1-diagram">
+
+<p class="admonition-title"><span class="caption-number">Exercise 41 </span> (Trainingsapp für Barkeeper: Aufgabe zeichnen)</p>
+<section id="exercise-content">
+<p>Ihr habt euch schon gegenseitig das Spiel erklärt, und hoffentlich alle offenen Fragen geklärt. An dieser Stelle ist es oft hilfreich, den Ablauf des Spiels in ein Bild zu fassen.
+Unser Ziel ist dabei weiterhin, den Spielablauf zu beschreiben und einzelne
+Teile der Aufgabe zu erkennen.</p>
+<p>Erstell eine Zeichnung aus der man ablesen kann:</p>
+<ul class="simple">
+<li><p>Wann passiert etwas? Zeitlicher Ablauf.</p></li>
+<li><p>Warum passiert etwas? Logischer Ablauf.</p></li>
+<li><p>Gibt es wichtige Ereignisse, Schritte oder „Dinge“ die für den
+Ablauf wichtig sind (bspw. „drücken“, „zählen“, „anzeigen“, …)?</p></li>
+</ul>
+<p>Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
+andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.</p>
+<p>Es kann gut sein, dass du wieder auf Details stößt, die du davor nicht bedacht hast. Du kannst sie jetzt definieren.</p>
+</section>
+</div>
+<p>Wenn du eine klare Vorstellung von deinem Spiel hast, kannst du beginnen, es zu implementieren.</p>
+<div class="exercise admonition" id="exercise-microbit-barkeeper-implementation">
+
+<p class="admonition-title"><span class="caption-number">Exercise 42 </span> (Trainingsapp für Barkeeper: Implementierung)</p>
+<section id="exercise-content">
+<p>Beginn mit einer vereinfachten Version des Spiels.
+Mit welcher Teilaufgabe davon möchtest du beginnen? Geh weiterhin Schritt für Schritt vor, und kontrollier immer wieder, ob sie auch funktionieren.</p>
+<p>Für jedes Teilproblem oder jede Vereinfachung:</p>
 <ol class="arabic simple">
-<li><p>Punkte zählen: Du startest mit 5 Lebenspunkten. Immer wenn du richtig liegst, bekommst du einen Lebenspunkt dazu, wenn du zu lang oder zu kurz gedrückt hast, verlierst du einen. Das Spiel endet, wenn du 0 Punkte hast (du hast verloren), oder wenn du 10 Punkte erreicht hast (du hast gewonnen!). Gib eine passende Meldung oder ein Symbol aus.</p></li>
+<li><p>Worin besteht die Aufgabe?</p></li>
+<li><p>Welche Blöcke brauchst du?</p></li>
+<li><p>Setze die Blöcke Schritt für Schritt zusammen und prüfe
+bei jeder Änderung, ob alles so funktioniert, wie du dir
+das vorstellst.</p></li>
 </ol>
 </section>
 </div>
-<div class="exercise admonition" id="exercise-microbit-barkeeper-multiplayer">
+<div class="exercise admonition" id="exercise-microbit-barkeeper-extension">
 
-<p class="admonition-title"><span class="caption-number">Exercise 41 </span> (Trainingsapp für Barkeeper: Multiplayer)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 43 </span> (Trainingsapp für Barkeeper: Erweiterung)</p>
 <section id="exercise-content">
+<p>Welche Features könntest du noch hinzufügen? Gibt es weitere Level, die immer schwieriger werden? Kannst du weitere Möglichkeiten des Microbit nutzen? Lass deiner Phantasie freien Lauf! Geh für jedes Feature wieder die obigen Schritte durch:</p>
+<p>Beschreib und zeichne:</p>
+<ul class="simple">
+<li><p>was genau passieren soll</p></li>
+<li><p>in welcher Reihenfolge es passieren soll</p></li>
+<li><p>wo im Spiel dieses Feature hineinpasst</p></li>
+</ul>
+<p>Implementiere das Feature wieder Schritt für Schritt, überleg für jedes Teilproblem oder jede Vereinfachung:</p>
 <ol class="arabic simple">
-<li><p>Multiplayer: Wenn du Button A drückst, läuft das Spiel wie voher. Wenn du aber B drückst, wird die Zufallszahl an deine Kollegin geschickt, und sie muss das Logo so lange gedrückt halten.</p></li>
+<li><p>Worin besteht die Aufgabe?</p></li>
+<li><p>Welche Blöcke brauchst du?</p></li>
+<li><p>Setze die Blöcke Schritt für Schritt zusammen und prüfe
+bei jeder Änderung, ob alles so funktioniert, wie du dir
+das vorstellst.</p></li>
 </ol>
-</section>
-</div>
-<div class="exercise admonition" id="exercise-microbit-barkeeper-multiplayer-points">
-
-<p class="admonition-title"><span class="caption-number">Exercise 42 </span> (Trainingsapp für Barkeeper: Multiplayer Tournier)</p>
-<section id="exercise-content">
-<ol class="arabic simple">
-<li><p>Multiplayer Contest: Ihr spielt abwechselnde Runden. Wenn du richtig geschätzt hast, bekommst du einen Punkt, die Kollegin verliert einen (und umgekehrt). Wenn ihr beide richtig wart, bekommt ihr beide einen Punkt, wenn ihr beide daneben wart, verliert ihr beide einen Punkt.
-Das Spiel endet, wenn eine Person 10 Punkte erreicht hat, oder eine Person 0 Punkte hat.</p></li>
-</ol>
+<p>Wenn das Feature funktioniert, kannst du es in dein bestehendes Programm einfügen. Vergiss auch hier nicht, alles ausgiebig zu testen!</p>
 </section>
 </div>
 </section>
