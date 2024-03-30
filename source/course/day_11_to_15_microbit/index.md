@@ -4,14 +4,12 @@
 
 Wir werden heute einen weiteren Computer anschauen und in Betrieb nehmen:
 
-Den [BBC micro:bit](https://microbit.org/). Er ist für alle möglichen Bastelprojekte geeignet, von einfach bis komplex. 
+Den [BBC micro:bit](https://microbit.org/). Er ist für alle möglichen Bastelprojekte geeignet, von einfach bis komplex.
 
 Um ihn kennenzulernen machen wir folgende Aufgaben:
 
 1. {ref}`exercise-micro-bit-numbers`
 2. {ref}`exercise-micro-bit-interface-and-sensors`
-
-{download}`🎬 Slides <./slides.pdf>`
 
 Wir machen folgende Übungen:
 
@@ -37,11 +35,27 @@ genauer ansehen:
 * Zerteilen
 * ...
 
-Wir machen folgende Übungen
-
+Hier sind etwas komplexere Aufgaben:
 
 1. {ref}`exercise-micro-bit-retrospective`
 1. {ref}`exercise-micro-bit-dice`
 1. {ref}`exercise-micro-bit-emoji-dice`
-1. {ref}`exercise-rock-paper-scissor-part-1-reading`
 
+Die folgenden beiden Programme sind in mehrere Teilschritte gegliedert. Das entspricht dem Vorgehen bei der Entwicklung von größeren Software-Projekten.
+
+## Schere, Stein, Papier
+
+1. {ref}`exercise-rock-paper-scissor-part-1-reading`
+1. {ref}`exercise-rock-paper-scissor-1-description`
+1. {ref}`exercise-rock-paper-scissors-1-diagram`
+1. {ref}`exercise-rock-paper-scissor-2-implementation`
+1. {ref}`exercise-rock-paper-scissor-2-rules`
+1. {ref}`exercise-rock-paper-scissors-all-in-one`
+
+## Barkeeper Training
+
+1. {ref}`exercise-microbit-barkeeper-1-analysis`
+1. {ref}`exercise-microbit-barkeeper-1-description`
+1. {ref}`exercise-microbit-barkeeper-1-diagram`
+1. {ref}`exercise-microbit-barkeeper-implementation`
+1. {ref}`exercise-microbit-barkeeper-extension`
