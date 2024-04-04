@@ -1,3 +1,3 @@
 # Nana Erkhembayarova
 
-![TicTacToe](../_static/projects/tictactoe/index.html)
+[TicTacToe](../_static/projects/tictactoe/index.html)
