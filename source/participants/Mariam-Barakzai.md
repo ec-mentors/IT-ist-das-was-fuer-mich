@@ -1,24 +1,47 @@
-# Mariam Barakzai
-забони русии ман он қадар хуб нест, аммо ман метавонам тоҷикӣ ҳарф занам, зеро модарам аз он ҷост
-
-
-# Ich will nach Hause gehen
-
-## I have to finish a book in a week! KEIN BUCK tb 
-
-### Aber Egal 
-
-Mark down:
-eine: Überschreift 
+# Mariam Barakzai 
+# Weiterbildung/Beruferfahrung
 >
-2: Untertitel 
-
-**FetterText**
+09-2023-           laufend Wien West HTL Abendschule,1160 Wien
 >
-*KursivText*
+05/2023 –          futurefactor Berufsorientierung, 1110 Wien 
 >
-***FetterundKusiv***
-
-[Link Text] (Adresse)
-
-Unsere [Website](https://ec-mentors.github.io/IT-ist-das-was-fuer-mich/)
+13/2023 -          Deutsch-Test für Österreich (DTÖ), Niveau B1, des Österreichischen Integrationsfonds
+>
+03/2022 -          Deutch-Test für Österreich (DTÖ), Niveau A2, des Österreichischen Integrationsfonds
+>
+10/2021-09-2023 -  Jugendcollage StartWien, Schulanaloges Bildungsangebot bei Interface Wien
+>
+03-2021-07/2021 -  Deutschkurs A1 bei UPDATE training GmbH
+>
+12/2022 -          1-wöchtiges Praktikum bei CodeFactory, 1050 Wien, Büromanagement
+>
+11/2022 -          3-tätiges Praktikum bei EKI, Interface-Wien,1040 Wien, Kinderbetreuung und Organisation 
+>
+11/2022 -          Coding-Workshop bei Code Factory
+>
+07/2022 -          Werkstattwoche an BPI der ÖJAB, 1120 Wien
+>
+# Weitere Kenntnisse
+>
+Dari Erstsprache
+>
+Deutsch gute Kenntnisse in Wort und Schrift 
+>
+Englisch sehr gute Kenntnisse in Wort und Schrift
+>
+Hindi Grundkenntnisse 
+>
+Programmiersprachen visual Basic, HTML, Java, JavaScript, C++
+>
+EDV Adobe Photoshop, Adobe Premiere Pro, Adobe 
+>
+After Effects, MS-Office, MS-Excel
+>
+# Persönliche Fähigkeiten/Hobbys und Interessen 
+>
+Zeitmanagement, Strukturierte Arbeiten, Sprachbegabung, Teamfähigkeit 
+>
+Bücher lesen, Schreiben und Tagebuch führen, Fotografie 
+>
+# DANKESCHÖN 
+[mood](https://i.pinimg.com/564x/c7/b7/3d/c7b73d7c7cc62cf9b47c3dda33296618.jpg)
